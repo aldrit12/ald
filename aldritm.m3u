@@ -251,110 +251,138 @@ http://zufreelist.net:8080/asdvasdfvafdsvafvaefrvaerfvafrvasdvasdfvafdsvafvaefrv
 http://zufreelist.net:8080/asdvasdfvafdsvafvaefrvaerfvafrvasdvasdfvafdsvafvaefrvaerfvafrvasdvasdfvafdsvafvaefrvaerfvafrvasdvasdfvafdsvafvaefrvaerfvafrv/xtreamiptvzutvzutvxtreamiptvzutvzutvxtreamiptvzutvzutv/78
 #EXTINF:-1 tvg-id="" tvg-name="SERIES: WARNER SD*" tvg-logo="" group-title="SERIES",SERIES: WARNER SD*
 http://zufreelist.net:8080/asdvasdfvafdsvafvaefrvaerfvafrvasdvasdfvafdsvafvaefrvaerfvafrvasdvasdfvafdsvafvaefrvaerfvafrvasdvasdfvafdsvafvaefrvaerfvafrv/xtreamiptvzutvzutvxtreamiptvzutvzutvxtreamiptvzutvzutv/79
-#EXTINF:-1 tvg-id="" tvg-name="WARNER BROS" logo="https://telegratis.org/wp-content/uploads/2020/07/warner.png",WARNER BROS
-https://live.televisiongratishd.com/tvplus2021/40_.m3u8?token=g1VXVTqGU78nmz99fC38fg&expires=1609307907&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="TNT" logo="https://telegratis.org/wp-content/uploads/2019/11/tnt.jpg",TNT
-https://live.televisiongratishd.com/tvplus2021/41_.m3u8?token=IyqA87E6iu8Tiw5YrLW-_g&expires=1609308436&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL" logo="https://telegratis.org/wp-content/uploads/2019/11/fox.png",FOX CHANNEL
-https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=babFkplSzHH3wJxu-x-f3A&expires=1609308845&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" logo="https://1.bp.blogspot.com/-oK2Tc2GFJzw/XW3Hs72N2cI/AAAAAAAAAGQ/kvCZ6_hsTWkWNg0fhn8vXmvSU7kFgEFnwCLcBGAs/s1600/cinemax.png",CINEMAX
-https://live.televisiongratishd.com/tvplus2021/43_.m3u8?token=Bz_Hu_kgMj1i0afm2lmNAg&expires=1609309105&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES" logo="https://1.bp.blogspot.com/-qwdE97w38Yc/XW3H_3fTrXI/AAAAAAAAAJQ/e4GmW0j8p2oeARhGus-A4G_nXHjCe1oPwCLcBGAs/s1600/fox-series.png",FOX PREMIUM SERIES
-https://live.televisiongratishd.com/tvplus2021/38_.m3u8?token=UwYVcDHK8eAF03ZBRugy9Q&expires=1609309324&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION" logo="https://1.bp.blogspot.com/-1TL_3O-wL0Q/XW3H-Lfe1MI/AAAAAAAAAI4/b4BedPm3bFYy5Cong1AJnkI8UvPq0CaRQCLcBGAs/s1600/fox-action.png",FOX PREMIUM ACTION
-https://live.televisiongratishd.com/tvplus2021/138_.m3u8?token=Dik0RNi76PI0BarNCuT8hA&expires=1609309574&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 " logo="https://telegratis.org/wp-content/uploads/2019/11/hbo-2.png",HBO 2 
-https://live.televisiongratishd.com/tvplus2021/32_.m3u8?token=YZ-cZx5Kyuu66U1v84s7Jw&expires=1609309693&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="WARNER BROS" logo="https://www.televisiongratishd.com/img/warnerbrostv.png",WARNER BROS
+https://live.televisiongratishd.com/tvplus2021/40_.m3u8?token=fXqqbEIPgocfy69ooNBKBg&expires=1609366535&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="TNT" logo="https://www.televisiongratishd.com/img/tnt.png",TNT
+https://live.televisiongratishd.com/tvplus2021/41_.m3u8?token=Zv2mUYrdNLwh0C68z4Mgnw&expires=1609366445&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL" logo="https://www.televisiongratishd.com/img/fox.png",FOX CHANNEL
+https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=XzQLs7jhyLu52f3w58FzqA&expires=1609366299&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" logo="https://www.televisiongratishd.com/img/cinemax.png",CINEMAX
+https://live.televisiongratishd.com/tvplus2021/43_.m3u8?token=7yOMn_OsiPUP8X-TDC5DGg&expires=1609366712&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES" logo="https://www.televisiongratishd.com/img/foxpremiumseries.png",FOX PREMIUM SERIES
+https://live.televisiongratishd.com/tvplus2021/38_.m3u8?token=wTb9jQVy6HwEbczmUWNfMQ&expires=1609366810&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION" logo="https://www.televisiongratishd.com/img/foxpremiumaction.png",FOX PREMIUM ACTION
+https://live.televisiongratishd.com/tvplus2021/138_.m3u8?token=IOE4_OMaEzjplD8pyNzWXQ&expires=1609366867&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 " logo="https://www.televisiongratishd.com/img/hbo2.png",HBO 2 
+https://live.televisiongratishd.com/tvplus2021/32_.m3u8?token=V-cK27H6TzgjKDBYPn2E9A&expires=1609371186&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="HBO" logo="https://telegratis.org/wp-content/uploads/2019/11/hbo.png",HBO
-https://live.televisiongratishd.com/tvplus2021/31_.m3u8?token=Nscm0sO4fM0kHWt3krSrjQ&expires=1609309795&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" logo="https://telegratis.org/wp-content/uploads/2020/07/history.png",HISTORY
-https://live.televisiongratishd.com/tvplus2021/49_.m3u8?token=bibectqDbYa9SrCmWhuvqQ&expires=1609309879&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" logo="https://telegratis.org/wp-content/uploads/2020/07/History_2.png",HISTORY 2
-https://live.televisiongratishd.com/tvplus2021/50_.m3u8?token=rodY7rViIQnK40NKKYo0fg&expires=1609312101&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" logo="https://www.univision.com/_next/static/images/logo-univision-color.49f6b4c4450cea582fa78cbc00dee7d8.svg",GALAVISION
-https://live.televisiongratishd.com/tvplus2021/55_.m3u8?token=ZwrHpMNW5_kha9xRhBV-SA&expires=1609312194&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES" logo="https://telegratis.org/wp-content/uploads/2019/11/fox-movies.png",FOX PREMIUM MOVIES
-https://live.televisiongratishd.com/tvplus2021/68_.m3u8?token=RAQRvvA8wX3F8oVCa1dLng&expires=1609312866&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FAMILY " logo="https://telegratis.org/wp-content/uploads/2019/11/fox-family.png",FOX PREMIUM FAMILY 
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=zUmiHiF4yWgQTv0W8zdExA&e=1609367275
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" logo="https://www.televisiongratishd.com/img/history.png",HISTORY
+https://live.televisiongratishd.com/tvplus2021/49_.m3u8?token=Q31dr0M8KDwugfmmC3hwBQ&expires=1609367422&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" logo="https://www.televisiongratishd.com/img/history2.png",HISTORY 2
+https://live.televisiongratishd.com/tvplus2021/50_.m3u8?token=s4Yq8eaa6T2krF851a6ISQ&expires=1609371258&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" logo="https://www.televisiongratishd.com/img/tlnovelas.png",GALAVISION
+https://live.televisiongratishd.com/tvplus2021/55_.m3u8?token=sdOXga32wPntfMSoKcfiDQ&expires=1609367827&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS " logo="https://www.televisiongratishd.com/img/tlnovelas.png",TLNOVELAS 
+https://live.televisiongratishd.com/tvplus2021/56_.m3u8?token=6a8V0zAZVTVlmlQxN6yO5g&expires=1609367859&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" logo="https://www.televisiongratishd.com/img/lasestrellas.png",LAS ESTRELLAS
+https://live.televisiongratishd.com/tvplus2021/57_.m3u8?token=ntDDp-awmipqYppdvS-31w&expires=1609368007&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" logo="https://www.televisiongratishd.com/img/azcinema.png",AZ CINEMA
+https://live.televisiongratishd.com/tvplus2021/54_.m3u8?token=pkUvaPOJoPNhCZJffPQBpA&expires=1609368100&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" logo="https://www.televisiongratishd.com/img/aztecauno.png",AZTECA UNO
+https://live.televisiongratishd.com/tvplus2021/52_.m3u8?token=EfLrXY-eqF290sfDPLd-fg&expires=1609368200&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" logo="https://www.televisiongratishd.com/img/cinecanal.png",CINECANAL
+https://live.televisiongratishd.com/tvplus2021/44_.m3u8?token=IGuZEYWEUWrL2x6C9MiFJQ&expires=1609368264&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES" logo="https://www.televisiongratishd.com/img/foxpremiummovies.png",FOX PREMIUM MOVIES
+https://live.televisiongratishd.com/tvplus2021/68_.m3u8?token=0cu-sThGdJSeaRHdScnDrw&expires=1609368410&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FAMILY " logo="https://www.televisiongratishd.com/img/foxpremiumfamily.png",FOX PREMIUM FAMILY 
 https://live.televisiongratishd.com/tvplus2021/69_.m3u8?token=vIY25deyjJ2wXR_rHXbYjw&expires=1609312952&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FOX  " logo="https://telegratis.org/wp-content/uploads/2019/11/FX.png",FOX  
-https://live.televisiongratishd.com/tvplus2021/70_.m3u8?token=5p3TVteR9UwNqn1tzvWwGA&expires=1609313020&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FXM  " logo="https://telegratis.org/wp-content/uploads/2019/11/fx-movies.png",FXM 
-https://live.televisiongratishd.com/tvplus2021/71_.m3u8?token=uNb1kTKiRfqR7VDiqRMzyw&expires=1609313071&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE " logo="https://telegratis.org/wp-content/uploads/2019/11/fox-life.png",FOX LIFE
+#EXTINF:-1 tvg-id="" tvg-name="FOX  " logo="https://www.televisiongratishd.com/img/fx.png",FOX  
+https://live.televisiongratishd.com/tvplus2021/70_.m3u8?token=L15exvDnqCLiM5I6Sh4URw&expires=1609368664&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="FXM  " logo="https://www.televisiongratishd.com/img/fxm.png",FXM 
+https://live.televisiongratishd.com/tvplus2021/71_.m3u8?token=Q5yQp2nymSW6vEq73AEU2w&expires=1609368638&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE " logo="https://www.televisiongratishd.com/img/foxlife.png",FOX LIFE
 https://live.televisiongratishd.com/tvplus2021/72_.m3u8?token=Jke3Jy7TFxNq752Uv4n-CA&expires=1609313148&ip=190.108.87.165 
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS " logo="https://telegratis.org/wp-content/uploads/2020/07/golden_plus.png",GOLDEN PLUS
-https://live.televisiongratishd.com/tvplus2021/73_.m3u8?token=TW6qNz_wPN-KwI7djHYEnQ&expires=1609313198&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE  " logo="https://telegratis.org/wp-content/uploads/2020/07/golden_edge.jpg",GOLDEN EDGE 
-https://live.televisiongratishd.com/tvplus2021/74_.m3u8?token=qNTrZAS8wZyWG4oNHVhEGQ&expires=1609313298&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER " logo="https://telegratis.org/wp-content/uploads/2020/07/golden.png",GOLDEN PREMIER
-https://live.televisiongratishd.com/tvplus2021/75_.m3u8?token=qs0CSi9cY0Fl6eWn8ZBV2w&expires=1609313381&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS " logo="https://1.bp.blogspot.com/-myPLd2aXaco/XW3IKWPNfZI/AAAAAAAAAKk/FSAqVh1qAe8ErZfS55KAyBlPn8dowcSEwCLcBGAs/s1600/hbo-plus.png",HBO PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS " logo="https://www.televisiongratishd.com/img/goldenplus.png",GOLDEN PLUS
+https://live.televisiongratishd.com/tvplus2021/73_.m3u8?token=6Kl8EYueMFn6dqyoVHN-cg&expires=1609368743&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE  " logo="https://www.televisiongratishd.com/img/goldenedge.png",GOLDEN EDGE 
+https://live.televisiongratishd.com/tvplus2021/74_.m3u8?token=AweBGfYiM6tfFes58UjLNg&expires=1609368782&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER " logo="https://www.televisiongratishd.com/img/goldenpremier.png",GOLDEN PREMIER
+https://live.televisiongratishd.com/tvplus2021/75_.m3u8?token=CkaEQv9xVUuY7iXPfEpNJg&expires=1609368816&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS " logo="https://www.televisiongratishd.com/img/hboplus.png",HBO PLUS 
 https://live.televisiongratishd.com/tvplus2021/33_.m3u8?token=FMXl0IoU6LXGHreSq2mGbQ&expires=1609313438&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY " logo="https://1.bp.blogspot.com/-CHiwqgFKrGU/XW3IJ-f9ShI/AAAAAAAAAKg/DXel8tx_odYH7PRuQ9mX_4kMBRVreO1OgCLcBGAs/s1600/hbo-family.png",HBO FAMILY 
-https://live.televisiongratishd.com/tvplus2021/34_.m3u8?token=qaTL2NkkDklSH-ingjY4-g&expires=1609313555&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES " logo="https://1.bp.blogspot.com/-ZZM2_c9HIbw/XW3It-6nxLI/AAAAAAAAAPM/qQSAQYkRZzogf6oQQR0Ux-BBF4e8KZ7NgCLcBGAs/s1600/tnt-series.png",TNT SERIES 
-https://live.televisiongratishd.com/tvplus2021/76_.m3u8?token=hdMW8GvQxVo9c34TGedJGQ&expires=1609313642&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY " logo="https://www.televisiongratishd.com/img/hbofamily.png",HBO FAMILY 
+https://live.televisiongratishd.com/tvplus2021/34_.m3u8?token=1yD-qI9nUA_403fIdZ67sw&expires=1609368898&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES " logo="https://www.televisiongratishd.com/img/tntseries.png",TNT SERIES 
+https://live.televisiongratishd.com/tvplus2021/76_.m3u8?token=ZFefNGpz3ALFp3dNb9k53Q&expires=1609368953&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SONY " logo="https://www.televisiongratishd.com/img/canalsony.png",CANAL SONY 
-https://live.televisiongratishd.com/tvplus2021/77_.m3u8?token=dIVoqDPofdNd7AinIipkag&expires=1609313717&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="AXN " logo="https://www.televisiongratishd.com/img/universalchannel.png",AXN 
-https://live.televisiongratishd.com/tvplus2021/78_.m3u8?token=E-xgvd6q5g99genCChurOg&expires=1609313962&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL " logo="https://telegratis.org/wp-content/uploads/2020/01/universal-channel.jpg",UNIVERSAL CHANNEL 
-https://live.televisiongratishd.com/tvplus2021/79_.m3u8?token=39GMMArc5CnJx6YLXyXRpg&expires=1609314113&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL " logo="https://telegratis.org/wp-content/uploads/2020/01/studio-universal.png",STUDIO UNIVERSAL 
-https://live.televisiongratishd.com/tvplus2021/80_.m3u8?token=aq_tK8q5M_XVJVclDFUsLQ&expires=1609314175&ip=190.108.87.165
+https://live.televisiongratishd.com/tvplus2021/77_.m3u8?token=MD6YeFmmxai5IoOQlhdWeQ&expires=1609368979&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="AXN " logo="https://www.televisiongratishd.com/img/axn.png",AXN 
+https://live.televisiongratishd.com/tvplus2021/78_.m3u8?token=_pGkfGlflz1xIsRijpDkww&expires=1609369048&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL " logo="https://www.televisiongratishd.com/img/universalchannel.png",UNIVERSAL CHANNEL 
+https://live.televisiongratishd.com/tvplus2021/79_.m3u8?token=KHKs37nsst88MiOKFVA8Aw&expires=1609369115&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL " logo="https://www.televisiongratishd.com/img/studiouniversal.png",STUDIO UNIVERSAL 
+https://live.televisiongratishd.com/tvplus2021/80_.m3u8?token=I772XD--eo4SFAFV-Cx_ig&expires=1609369160&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="AMC " logo="https://www.televisiongratishd.com/img/amc.png",AMC
+https://live.televisiongratishd.com/tvplus2021/82_.m3u8?token=IxHZ6P7VfqYAXHsfwVy4Qg&expires=1609369227&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL " logo="https://www.televisiongratishd.com/img/paramountchannel.png",PARAMOUNT CHANNEL 
-https://live.televisiongratishd.com/tvplus2021/83_.m3u8?token=lKK4B2ImTU7MiRy0okC3mQ&expires=1609314303&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="MTV " logo="https://1.bp.blogspot.com/-FAq72GdN-_0/XW3Ia4em47I/AAAAAAAAAMo/bs3nkuug_900jd4aIRP6T6TyzryJrBsjACLcBGAs/s1600/mtv.png",MTV 
-https://live.televisiongratishd.com/tvplus2021/87_.m3u8?token=syr1v3EUkuFFoITyZZgXrQ&expires=1609314429&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " logo="https://1.bp.blogspot.com/-aWABUes86JE/XW3IdWClIlI/AAAAAAAAAM8/QcoV5FvBFussj40MnKlg4thy_X2c9tOigCLcBGAs/s1600/national-geographic.png",NATIONAL GEOGRAPHIC 
-https://live.televisiongratishd.com/tvplus2021/92_.m3u8?token=4qkhItWssUT0L2Y_uHINKQ&expires=1609314543&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " logo="https://1.bp.blogspot.com/-i-IJP6Cim00/XW3Ic4iLaDI/AAAAAAAAAM4/T4_qZKtwJR4qQpngoZ5oLgiqBU2TfymlACLcBGAs/s1600/nat-geo-wild.png",NAT GEO WILD 
-https://live.televisiongratishd.com/tvplus2021/93_.m3u8?token=E0E4KjQuJJj6JvA8ng3f1g&expires=1609314657&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " logo="https://1.bp.blogspot.com/-rNXA9sbSAuE/XW3Hjbh4aCI/AAAAAAAAAEU/PqtZn-7TnvwE4OFTDt6cYDSzyNGBrGpdQCLcBGAs/s1600/animal-planet.png",ANIMAL PLANET 
-https://live.televisiongratishd.com/tvplus2021/94_.m3u8?token=uKuuCIq4JtEFbddHCPEeVQ&expires=1609314744&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " logo="https://telegratis.org/wp-content/uploads/2019/11/discovery-channel.png",DISCOVERY CHANNEL 
-https://live.televisiongratishd.com/tvplus2021/95_.m3u8?token=AWf8k1HEAZUZrpkh6S1Q5Q&expires=1609314874&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO " logo="https://1.bp.blogspot.com/-4N-3b2uWJSU/XW3HzQHeNII/AAAAAAAAAHY/Sl2kF3fcT-sXMfvn25GHxf4aFWwajoTBACLcBGAs/s1600/discovery-turbo.png",DISCOVERY TURBO 
-https://live.televisiongratishd.com/tvplus2021/96_.m3u8?token=kRzsKMTll6mteARbIflOfQ&expires=1609314999&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY A&E " logo="https://1.bp.blogspot.com/--aP8mfp1AYs/XW3HhThQkJI/AAAAAAAAAEA/v0r7nEzB8rUvupJpeOycIblhYHk3du6ogCLcBGAs/s1600/ae.png",DISCOVERY A&E
-https://live.televisiongratishd.com/tvplus2021/99_.m3u8?token=1tNrZXno6oqMPNtFZCopAA&expires=1609315101&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER " logo="https://1.bp.blogspot.com/-KfW0Y2oH4O8/XW3Hy12ItZI/AAAAAAAAAHQ/2K-8R8TJozImvcqP9sTVwo1yOG6jfAaKgCLcBGAs/s1600/discovery-theater.png",DISCOVERY THEATER 
-https://live.televisiongratishd.com/tvplus2021/101_.m3u8?token=I7ZF-ZgHxhIJNy0bp-0AnQ&expires=1609315277&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL " logo="https://1.bp.blogspot.com/-mc9OwJMZrSw/XW3H0QeOjEI/AAAAAAAAAHg/yzvP1uYC_9secXYgzGk5E0C2m9pIHAVPACLcBGAs/s1600/disney-channel.png",DISNEY CHANNEL 
-https://live.televisiongratishd.com/tvplus2021/107_.m3u8?token=C3SmA1UnuscwSt9s9EHHRg&expires=1609315463&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD " logo="https://1.bp.blogspot.com/-0ZqQxL_JQpE/XW3H1KcpKeI/AAAAAAAAAHo/FA9bdZep8Z02Lw2tyzx4RWb-i3ztz95bwCLcBGAs/s1600/disney-xd.png",DISNEY XD  
-https://live.televisiongratishd.com/tvplus2021/108_.m3u8?token=5ULxBoiLLom5W2uT5wJsPQ&expires=1609315555&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR " logo="https://1.bp.blogspot.com/-Fh6vx2nXrKM/XW3H04Tv8AI/AAAAAAAAAHk/32Zg__j33iYgjW3zrDmACyHdlHqHB0wuQCLcBGAs/s1600/disney-junior.png",DISNEY JUNIOR 
-https://live.televisiongratishd.com/tvplus2021/109_.m3u8?token=uogKDTU9ih4ANOfLMpRwyw&expires=1609315616&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NICK  " logo="https://1.bp.blogspot.com/-UFTJSLxj6jw/XW3IggL0tqI/AAAAAAAAANU/AMrsl2m9u-Q8e0u2M_Qig6JqFMjpLwo4gCLcBGAs/s1600/nick.png",NICK  
-https://live.televisiongratishd.com/tvplus2021/110_.m3u8?token=LiUO6px9-sanAvW8ePS9qQ&expires=1609315678&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NICK 2 " logo="https://1.bp.blogspot.com/-9g0oGOpgvTM/XW3Iffvd-YI/AAAAAAAAANM/3L2d5u8TCn8q4EMxl1gmWyUal0qckXY-gCLcBGAs/s1600/nick-2.png",NICK 2 
-https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=lb4VlNspSwHtraSNZS296g&expires=1609315743&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR " logo="https://1.bp.blogspot.com/-d5-iQ1FvS2E/XW3IgFDNphI/AAAAAAAAANQ/7MlyQp9Kkxkejj8IdHhQPU_YmMZNDr-2ACLcBGAs/s1600/nick-junior.png",NICK JR
-https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=dB2XOR3jIwSkHEemPmMUnw&expires=1609315812&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS " logo="https://1.bp.blogspot.com/-cp2UQ0eYrqw/XW3IhGrUrdI/AAAAAAAAANY/qKMFmSzSyZ4fNGZgvi-Nk6B_HAV37I8xACLcBGAs/s1600/nicktoons.png",NICKTOONS 
-https://live.televisiongratishd.com/tvplus2021/113_.m3u8?token=jAGFaTjVGNfJ1i11gI05mA&expires=1609315867&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK " logo="https://1.bp.blogspot.com/-YqhCEurOZAg/XW3HrJ7ompI/AAAAAAAAAF4/2jSCK7hkF3wk-9arpdecoicv3TS_lUrQgCLcBGAs/s1600/cartoon-network.png",CARTOON NETWORK 
-https://live.televisiongratishd.com/tvplus2021/114_.m3u8?token=ms91mqLx2ogJOa_xf_E_QA&expires=1609315935&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG " logo="https://1.bp.blogspot.com/-_-2DVg_5aKY/XW3Ho2-5JxI/AAAAAAAAAFY/FCoh5e-wYKwRqXLvK0BmoKcJu6V_tAtvwCLcBGAs/s1600/boomerang.png",BOOMERANG
-https://live.televisiongratishd.com/tvplus2021/115_.m3u8?token=ZwGRPaJmCiD2D_vuhBe5LQ&expires=1609316017&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST  " logo="https://1.bp.blogspot.com/-sY7LoU5mSGE/XW3IvyQCJ4I/AAAAAAAAAPc/QVNrLr9M9GoMXsm4NKdT56ZMLUI8cqoWACLcBGAs/s1600/tooncast.png",TOONCAST  
-https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=FwkOGO9-zTAoVw4t7x3kDw&expires=1609316148&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS " logo="https://1.bp.blogspot.com/--Gvi2yzjlFA/XW3Hyf-vR2I/AAAAAAAAAHI/XjIfoySiq4wCXbZmlEJC4zzyRt5-yI75ACLcBGAs/s1600/discovery-kids.png",DISCOVERY KIDS 
-https://live.televisiongratishd.com/tvplus2021/117_.m3u8?token=rAg3_zMnOAIZ7SzjJOgHDw&expires=1609316185&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS " logo="https://1.bp.blogspot.com/-TlJcH_LoJdY/XW3IcvJtrsI/AAAAAAAAAM0/aOi1QM3xy3s6PcP5wkMbP-b5MzrIK6wugCLcBGAs/s1600/nat-geo-kids.png",NAT GEO KIDS 
-https://live.televisiongratishd.com/tvplus2021/118_.m3u8?token=6caUcfOhZVMB8gPTUfhF9w&expires=1609316251&ip=190.108.87.165
+https://live.televisiongratishd.com/tvplus2021/83_.m3u8?token=nBzrLmhzvyF2pbspcw28Kg&expires=1609369317&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" logo="https://www.televisiongratishd.com/img/cinelatino.png",CINE LATINO 
+https://live.televisiongratishd.com/tvplus2021/84_.m3u8?token=xWN2-m8YDK7da5YEV_87Vw&expires=1609369359&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DPELICULA  " logo="https://www.televisiongratishd.com/img/dpelicula.png",DPELICULA 
+https://live.televisiongratishd.com/tvplus2021/85_.m3u8?token=4_BElsANpfL3vppGvcpZYQ&expires=1609369443&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="MTV " logo="https://www.televisiongratishd.com/img/mtv.png",MTV 
+https://live.televisiongratishd.com/tvplus2021/87_.m3u8?token=YUlg7vGnYPNZzfUhy1KUmw&expires=1609369525&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL " logo="https://www.televisiongratishd.com/img/comedycentral.png",COMEDY CENTRAL 
+https://live.televisiongratishd.com/tvplus2021/91_.m3u8?token=z_qTMp1jwrlAjw0zaJDzgA&expires=1609369571&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " logo="https://www.televisiongratishd.com/img/nationalgeographic.png",NATIONAL GEOGRAPHIC 
+https://live.televisiongratishd.com/tvplus2021/92_.m3u8?token=6HMp7TE--ogzjELy3rBr-g&expires=1609369636&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " logo="https://www.televisiongratishd.com/img/natgeowild.png",NAT GEO WILD 
+https://live.televisiongratishd.com/tvplus2021/93_.m3u8?token=FiUUXKmk7iJS_XQcjNIg1w&expires=1609369704&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " logo="https://www.televisiongratishd.com/img/animalplanet.png",ANIMAL PLANET 
+https://live.televisiongratishd.com/tvplus2021/94_.m3u8?token=2jd_Qr-nGQmdlOBUMc_Naw&expires=1609369744&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " logo="https://www.televisiongratishd.com/img/discoverychannel.png",DISCOVERY CHANNEL 
+https://live.televisiongratishd.com/tvplus2021/95_.m3u8?token=ooXmVp8vu6YKH-_Y14bSow&expires=1609369785&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO " logo="https://www.televisiongratishd.com/img/discoveryturbo.png",DISCOVERY TURBO 
+https://live.televisiongratishd.com/tvplus2021/96_.m3u8?token=JffzAy8SYxV6XGNYfSCPIA&expires=1609369826&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION " logo="https://www.televisiongratishd.com/img/idinvestigation.png",ID INVESTIGATION
+https://live.televisiongratishd.com/tvplus2021/98_.m3u8?token=f_k5K5Jm7yFSbIG67iOLrg&expires=1609369885&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY A&E " logo="https://www.televisiongratishd.com/img/discoveryaye.png",DISCOVERY A&E
+https://live.televisiongratishd.com/tvplus2021/99_.m3u8?token=KjPi1qT-g6gY6Hk2bQBP6g&expires=1609369955&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER " logo="https://www.televisiongratishd.com/img/discoverytheater.png",DISCOVERY THEATER 
+https://live.televisiongratishd.com/tvplus2021/101_.m3u8?token=y5ZzPnsjObOum0emSKlFig&expires=1609370013&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD " logo="https://www.televisiongratishd.com/img/discoveryworld.png",DISCOVERY WORLD 
+https://live.televisiongratishd.com/tvplus2021/102_.m3u8?token=lCV-cAa0D2N7CAUbY7InqQ&expires=1609370061&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="EVERYTHING " logo="https://www.televisiongratishd.com/img/everything.png",EVERYTHING
+https://live.televisiongratishd.com/tvplus2021/103_.m3u8?token=2GZwnql2JGn5Hpn_X-3d5A&expires=1609370131&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="TBS" logo="https://www.televisiongratishd.com/img/tbs.png",TBS 
+https://live.televisiongratishd.com/tvplus2021/105_.m3u8?token=WBrXyQ-WzMeuIuyPwmMoOQ&expires=1609370209&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" logo="https://www.televisiongratishd.com/img/elgourmet.png",EL GOURMET 
+https://live.televisiongratishd.com/tvplus2021/106_.m3u8?token=tzXVZroBdr_r6exK3JjIDA&expires=1609370266&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL " logo="https://www.televisiongratishd.com/img/disneychannel.png",DISNEY CHANNEL 
+https://live.televisiongratishd.com/tvplus2021/107_.m3u8?token=5CuvEVeFSirlcAAFFqwOOQ&expires=1609370364&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD " logo="https://www.televisiongratishd.com/img/disneyxd.png",DISNEY XD  
+https://live.televisiongratishd.com/tvplus2021/108_.m3u8?token=JIFXQKHGik9KOtLQrrdHgQ&expires=1609370469&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR " logo="https://www.televisiongratishd.com/img/disneyjunior.png",DISNEY JUNIOR 
+https://live.televisiongratishd.com/tvplus2021/109_.m3u8?token=8oviKr3z78j07Fb0OUfu6w&expires=1609370507&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="NICK  " logo="https://www.televisiongratishd.com/img/nick.png",NICK  
+https://live.televisiongratishd.com/tvplus2021/110_.m3u8?token=doxSLI1EjzPbc9zIwaEiYQ&expires=1609370553&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 " logo="https://www.televisiongratishd.com/img/nick2.png",NICK 2 
+https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=XlolgxmZhmTvnIMofJ5JGA&expires=1609370610&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR " logo="https://www.televisiongratishd.com/img/nickjr.png",NICK JR
+https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=VEYV7l7M1-dnVDBQjvKK_g&expires=1609370654&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS " logo="https://www.televisiongratishd.com/img/nicktoons.png",NICKTOONS 
+https://live.televisiongratishd.com/tvplus2021/113_.m3u8?token=umEzf-rBBd0tUk3UWZxovA&expires=1609370690&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK " logo="https://www.televisiongratishd.com/img/cartoonnetwork.png",CARTOON NETWORK 
+https://live.televisiongratishd.com/tvplus2021/114_.m3u8?token=8PNIuXiiKyga1hKDyy8faw&expires=1609370719&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG " logo="https://www.televisiongratishd.com/img/boomerang.png",BOOMERANG
+https://live.televisiongratishd.com/tvplus2021/115_.m3u8?token=0F3zmAQIAguYyWFo5CB-Ig&expires=1609370783&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST  " logo="https://www.televisiongratishd.com/img/tooncast.png",TOONCAST  
+https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=kvgUJLngOaTtQgeVYRcOfA&expires=1609370824&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS " logo="https://www.televisiongratishd.com/img/discoverykids.png",DISCOVERY KIDS 
+https://live.televisiongratishd.com/tvplus2021/117_.m3u8?token=qcjJpzAKuSuNyGL0NEX0Lw&expires=1609370866&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS " logo="https://www.televisiongratishd.com/img/natgeokids.png",NAT GEO KIDS 
+https://live.televisiongratishd.com/tvplus2021/118_.m3u8?token=jAEQ5kk91xXDjhn0p9twSw&expires=1609370907&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="BOING " logo="https://www.televisiongratishd.com/img/boing.png",BOING 
-https://live.televisiongratishd.com/tvplus2021/119_.m3u8?token=_X1LlwpSE1TyZJ3d2cWT4g&expires=1609316312&ip=190.108.87.165
+https://live.televisiongratishd.com/tvplus2021/119_.m3u8?token=8npKO2nXTCFTXoM3kKFKrw&expires=1609370941&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="TOP LATINO " logo="https://www.televisiongratishd.com/img/toplatino.png",TOP LATINO
-https://live.televisiongratishd.com/tvplus2021/123_.m3u8?token=oxhSuWNl28ej-icqPJ5FjA&expires=1609316423&ip=190.108.87.165
+https://live.televisiongratishd.com/tvplus2021/123_.m3u8?token=-wB5qowP7jKACAA-e9aKmA&expires=1609370979&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="TELEHIT " logo="https://www.televisiongratishd.com/img/telehit.png",TELEHIT 
-https://live.televisiongratishd.com/tvplus2021/122_.m3u8?token=DPq_E9b3WrDaOnXyLuwk_w&expires=1609316539&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO 24/7" logo="https://1.bp.blogspot.com/-cXVV-rMQwhY/XcBoTDLxEFI/AAAAAAAAAfs/YlGc81sgkXcQg1A9gpk-57bkhNv2Wi3hgCLcBGAsYHQ/s1600/el%2Bchavo%2Banimado.png",EL CHAVO 24/7 
-https://live.televisiongratishd.com/tvplus2021/150_.m3u8?token=dATe6k4Vbudda0ThOY8caw&expires=1609316633&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="ALF 24/7 " logo="https://1.bp.blogspot.com/-S5ddIj8YPzc/XcBoOLGJ5xI/AAAAAAAAAe0/hPAG7TLXNzQp4d9pG6PLeSg69NGmUKt2wCLcBGAsYHQ/s320/alf.png",ALF 24/7 
-https://live.televisiongratishd.com/tvplus2021/128_.m3u8?token=9QmsSVupb1iaWSbMGixM4g&expires=1609316759&ip=190.108.87.165
+https://live.televisiongratishd.com/tvplus2021/122_.m3u8?token=V87BKu2f9PMZecOEa3lF1A&expires=1609371009&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO 24/7" logo="https://www.televisiongratishd.com/img/elchavo.png",EL CHAVO 24/7 
+https://live.televisiongratishd.com/tvplus2021/150_.m3u8?token=T4-Si7EpqKlMUX-9mj_3hA&expires=1609371044&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="ALF 24/7 " logo="https://www.televisiongratishd.com/img/alf.png",ALF 24/7 
+https://live.televisiongratishd.com/tvplus2021/128_.m3u8?token=UX5G_KuHj50Zp27xeGoekA&expires=1609371108&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24/7 " logo="https://dragonball.sullca.com/wp-content/uploads/2017/08/Dragon-Ball-Super-online-LATINO-ESPAnOL.png?x74870",DRAGON BALL SUPER 24/7
 https://live.televisiongratishd.com/tvplus2021/191_.m3u8?token=lqPu2LMgKigjvJGn2WsDng&expires=1609316818&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="Futurama " logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/futurama_mania__320.jpg",Futurama 
