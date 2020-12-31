@@ -1,0 +1,224 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
+https://archive.org/download/zaltv/zaltv.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",29/Dic/2020
+https://archive.org/download/intro_20191220/INTRO.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
+https://archive.org/download/intro_20191220/INTRO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="KIDS",Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="KIDS",Kanade TV
+http://155.138.216.118:8080/hls/show.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhYNPhN/BABY-TV-IPTVFR.jpg" group-title="KIDS",Baby tv (X)
+http://tecnotv.club/year/principal.php?c=17&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHhDwmc/Boomerang.jpg" group-title="KIDS",Boomerang (X)
+http://tecnotv.club/year/principal.php?c=20&f=.m3u8s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzLfc7H/CARTOON-NETWORK.jpg" group-title="KIDS",Cartoon Network
+http://tecnotv.club/year/principal.php?c=24&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vCsk23/Discovery-kids.jpg" group-title="KIDS",Discovery Kids
+http://tecnotv.club/year/principal.php?c=36&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCZtnhg/Disney-Channel.jpg" group-title="KIDS",Disney Channel
+http://tecnotv.club/year/principal.php?c=44&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LdvjvS/disney-jr.jpg" group-title="KIDS",Disney JR
+http://tecnotv.club/year/principal.php?c=45&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fw5rVq/Disney-XD.jpg" group-title="KIDS",Disney XD
+http://tecnotv.club/year/principal.php?c=46&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHt7dPy/Natgeo-Kids.jpg" group-title="KIDS",Natgeo Kids
+http://tecnotv.club/year/principal.php?c=102&f=.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7NwLTsD/Nickelodeon.jpg" group-title="KIDS",Nickelodeon
+http://tecnotv.club/year/principal.php?c=104&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJg6krr/Nick2.jpg" group-title="KIDS",Nick 2
+http://tecnotv.club/year/principal.php?c=105&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88VkhCV/Nick.jpg" group-title="KIDS",Nick JR
+http://tecnotv.club/year/principal.php?c=106&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc0H7KL/Tooncas.jpg" group-title="KIDS",Tooncast
+http://tecnotv.club/year/principal.php?c=129&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44sPNz6/ANIMAL-PLANET-PTVFR.jpg" group-title="CULTURA",Animal Planet
+http://tecnotv.club/year/principal.php?c=7&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjDXVDR/DISCOVERY-CH.jpg" group-title="CULTURA",Discovery Channel
+http://tecnotv.club/year/principal.php?c=35&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBGGSCW/Discovery-Turbo.jpg" group-title="CULTURA",Discovery Turbo
+http://tecnotv.club/year/principal.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfyZBKN/Discovery-Theater.jpg" group-title="CULTURA",Discovery Theater
+http://tecnotv.club/year/principal.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dm6LP29/DISCOVERY-SIEN.jpg" group-title="CULTURA",Discovery Sciences
+http://tecnotv.club/year/principal.php?c=39&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch2ZYsF/DISCOVERY-HH.jpg" group-title="CULTURA",Discovery H&H
+http://tecnotv.club/year/principal.php?c=37&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYLmdYv/Investigation-Discovery.jpg" group-title="CULTURA",Investigation Discovery
+http://tecnotv.club/year/principal.php?c=105&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5K4zhV/TLCIPTVFR.jpg" group-title="CULTURA",TLC
+http://tecnotv.club/year/principal.php?c=41&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgckk3C/history-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",History
+http://tecnotv.club/year/principal.php?c=99&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pct56fs/H2-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",H2
+http://tecnotv.club/year/principal.php?c=100&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild
+http://tecnotv.club/year/principal.php?c=122&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vd9PF1/National-Geograp.jpg" group-title="CULTURA",National Geographic
+http://tecnotv.club/year/principal.php?c=120&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cw167v4/EL-GURMET.jpg" group-title="CULTURA",El Gourmet
+http://tecnotv.club/year/principal.php?c=49&f=.m3u8
+#EXTINF:-1 tvg-logo=".jpg" group-title="ENTRETENIMIENTO",Justicia TV
+http://tecnotv.club/year/principal.php?c=22&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrRCnrz/AMC.jpg" group-title="CINE Y SERIES",Amc
+http://tecnotv.club/year/principal.php?c=6&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRjDMwJ/a-amp-e.jpg" group-title="CINE Y SERIES",A&e
+http://tecnotv.club/year/principal.php?c=3&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cht20hW/Warner-Channel.jpg" group-title="CINE Y SERIES",Warner channenel
+http://tecnotv.club/year/principal.php?c=163&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2f4bRr/FOX.jpg" group-title="CINE Y SERIES",Fox Channel
+http://tecnotv.club/year/principal.php?c=63&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZYFNymr/Universal-channel.jpg" group-title="CINE Y SERIES",Universal
+http://tecnotv.club/year/principal.php?c=159&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6DphvY/FOX-LIFE.jpg" group-title="CINE Y SERIES",Fox Life
+http://tecnotv.club/year/principal.php?c=64&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyvKB8G/AXN.jpg" group-title="CINE Y SERIES",Axn
+http://tecnotv.club/year/principal.php?c=9&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5stn54k/SONY.jpg" group-title="CINE Y SERIES",Sony
+http://tecnotv.club/year/principal.php?c=132&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrVNhdy/Tnt.jpg" group-title="CINE Y SERIES",Tnt
+http://tecnotv.club/year/principal.php?c=146&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XL3MB0M/SPACE.jpg" group-title="CINE Y SERIES",Space
+http://tecnotv.club/year/principal.php?c=133&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRgy97L/Studio-Universal.jpg" group-title="CINE Y SERIES",Studio Universal
+http://tecnotv.club/year/principal.php?c=134&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWCp9z8/FX-IP.jpg" group-title="CINE Y SERIES",Fx
+http://tecnotv.club/year/principal.php?c=90&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C21DyYX/FXHD.jpg" group-title="CINE Y SERIES",Fx Movie
+http://tecnotv.club/year/principal.php?c=91&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBBrf9v/TBS.jpg" group-title="CINE Y SERIES",Tbs
+http://tecnotv.club/year/principal.php?c=138&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWdwvx0/TCM.jpg" group-title="CINE Y SERIES",Tcm
+http://tecnotv.club/year/principal.php?c=139&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thdx4Hh/CINE-CANAL.jpg" group-title="CINE Y SERIES",Cine canal
+http://tecnotv.club/year/principal.php?c=25&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nb8sVg6/CINEMAX.png" group-title="CINE Y SERIES",Cinemax
+http://tecnotv.club/year/principal.php?c=26&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkbYPqj/Paramount.jpg" group-title="CINE Y SERIES",Paramount
+http://tecnotv.club/year/principal.php?c=127&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVBCfBN/Comedy-Central.jpg" group-title="CINE Y SERIES",Comedy Central
+http://tecnotv.club/year/principal.php?c=123&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzQnqbq/cl-sundance-channel-m.png" group-title="CINE Y SERIES",Sundance tv
+http://tecnotv.club/year/principal.php?c=135&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MHWNXv/Cinelatino.jpg" group-title="CINE Y SERIES",Cine Latino
+http://tecnotv.club/year/principal.php?c=23&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmFm7mZ/TNT-SERIES.jpg" group-title="CINE Y SERIES",Tnt Series
+http://tecnotv.club/year/principal.php?c=147&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDDrkc4/FOX-ACTION.jpg" group-title="CINE Y SERIES",Fox Premium Action
+http://tecnotv.club/year/principal.php?c=65&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwRhvNV/FOX-CINEMA.jpg" group-title="CINE Y SERIES",Fox Premium Cinema
+http://tecnotv.club/year/principal.php?c=67&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nCzFtNW/fox-comedy.jpg" group-title="CINE Y SERIES",Fox Premium Comedy
+http://tecnotv.club/year/principal.php?c=69&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tsjrQQm/FOX-CLASSIC-IPTVFR.jpg" group-title="CINE Y SERIES",Fox Premium Classics
+http://tecnotv.club/year/principal.php?c=68&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bsHPy5/fox-family.jpghttps://i.ibb.co/9bsHPy5/fox-family.jpg"group-title="CINE Y SERIES",Fox Premium Family
+http://tecnotv.club/year/principal.php?c=70&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dky8jRH/fox-series.jpg" group-title="CINE Y SERIES",Fox Premium Series
+http://tecnotv.club/year/principal.php?c=72&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sd5rT28/fox-movies.jpg" group-title="CINE Y SERIES",Fox Premium Movies
+http://tecnotv.club/year/principal.php?c=71&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden
+http://tecnotv.club/year/principal.php?c=95&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden Premier
+http://tecnotv.club/year/principal.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO
+http://tecnotv.club/year/principal.php?c=74&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHd4GZ3/hbo2.jpg" group-title="CINE Y SERIES",HBO 2
+http://tecnotv.club/year/principal.php?c=75&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5hWtZW/HBO-PLUS-IPTVFR.jpg" group-title="CINE Y SERIES",HBO plus
+http://tecnotv.club/year/principal.php?c=78&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xfjmtm/HBO-Family.jpg" group-title="CINE Y SERIES",HBO Family
+http://tecnotv.club/year/principal.php?c=76&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO Signature
+http://tecnotv.club/year/principal.php?c=80&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCnTRrK/max-prime.jpg" group-title="CINE Y SERIES",HBO Mundi
+http://tecnotv.club/year/principal.php?c=77&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO Pop
+http://tecnotv.club/year/principal.php?c=79&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO EXTREME
+http://tecnotv.club/year/principal.php?c=82&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tDbjmNX/AZ-CORA.jpg" group-title="ENTRETENIMIENTO",Az Corazon
+http://tecnotv.club/year/principal.php?c=13&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K9FqCPZ/LIFETIME.jpg" group-title="ENTRETENIMIENTO",Lifetime
+http://tecnotv.club/year/principal.php?c=109&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txXLPPC/MAS-CHIC.jpg" group-title="ENTRETENIMIENTO",Mas Chic
+http://tecnotv.club/year/principal.php?c=110&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPG6FJd/AZ-MUND.jpg" group-title="ENTRETENIMIENTO",Az Mundo
+http://tecnotv.club/year/principal.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmXRZHr/HOLATV.jpg" group-title="ENTRETENIMIENTO",Hola TV
+http://tecnotv.club/year/principal.php?c=101&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/51wjY61/logo-multimedios-2.png" group-title="ENTRETENIMIENTO",Multimedios
+http://tecnotv.club/year/principal.php?c=100&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kymB7WM/telemundo.jpg" group-title="ENTRETENIMIENTO",Telemundo
+http://tecnotv.club/year/principal.php?c=151&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FzGc99Y/DHEI.jpg" group-title="ENTRETENIMIENTO",DHE
+http://tecnotv.club/year/principal.php?c=34&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports
+http://tecnotv.club/year/principal.php?c=164&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv sports-2
+http://tecnotv.club/year/principal.php?c=165&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyqmwzm/FOX-Sports.jpg" group-title="DEPORTES",Fox Sports 1 [latm]
+http://tecnotv.club/year/principal.php?c=86&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 2 [latm]
+http://tecnotv.club/year/principal.php?c=87&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 3 [latm]
+http://tecnotv.club/year/principal.php?c=88&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR12DVr/FOX-Sports-MEXICO.jpg" group-title="DEPORTES",Fox Sports 1 [MEX]
+http://tecnotv.club/year/principal.php?c=83&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3jL7db/Fox-sports-2-MEXICO.jpg" group-title="DEPORTES",Fox Sports 2 [MEX]
+http://tecnotv.club/year/principal.php?c=84&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37NkJdN/Fox-sports-3-MEXICO.jpg" group-title="DEPORTES",Fox Sports 3 [MEX]
+http://tecnotv.club/year/principal.php?c=85&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7BC4yr/ESPN.jpg" group-title="DEPORTES",Espn 1 (latm)
+http://tecnotv.club/year/principal.php?c=55&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (latm)
+http://tecnotv.club/year/principal.php?c=56&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (latm)
+http://tecnotv.club/year/principal.php?c=57&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mn6RsTZ/ESPN-PLUS.jpg" group-title="DEPORTES",Espn Plus (latm)
+http://tecnotv.club/year/principal.php?c=58&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DKpDq1/ESPN-MX.jpg" group-title="DEPORTES",Espn (MEX)
+http://tecnotv.club/year/principal.php?c=51&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (MEX)
+http://tecnotv.club/year/principal.php?c=52&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (MEX)
+http://tecnotv.club/year/principal.php?c=53&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5QNysK/TDN-UNIVI.jpg" group-title="DEPORTES",Univision TUDN
+http://tecnotv.club/year/principal.php?c=150&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
+http://tecnotv.club/year/principal.php?c=142&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="DEPORTES",Golf Channel
+http://tecnotv.club/year/principal.php?c=97&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PDH7DhW/CNN-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="NOTICIAS",Cnn espanol
+http://tecnotv.club/year/principal.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/61626QC/cnn-internacional-iptv.jpg" group-title="NOTICIAS",Cnn internacional [USA]
+http://tecnotv.club/year/principal.php?c=15&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fSRX1nw/GTo-Mw-YPgp71-X-kkdyydnl-Hr9-IVP1ls4l-NC8l-TPi-NU6mz-Fvd-U3-S7-Bp7z-EKd-JH4-PQ7r-Y.png" group-title="NOTICIAS",ADN 40
+http://tecnotv.club/year/principal.php?c=148&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6JRTP3/200px-MTV-Logo-svg.png" group-title="MUSICA",MTV
+http://tecnotv.club/year/principal.php?c=115&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYmNVpn/1200px-MTV-Live-svg.png" group-title="MUSICA",MTV Live
+http://tecnotv.club/year/principal.php?c=117&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YNcfn34/ar-mtv-hits-m.png" group-title="MUSICA",MTV Hits
+http://tecnotv.club/year/principal.php?c=116&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV
+http://tecnotv.club/year/principal.php?c=164&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fGkNRC/VH1.jpg" group-title="MUSICA",Vh1
+http://tecnotv.club/year/principal.php?c=160&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CnyQC8x/VH1-CLASSIC.jpg" group-title="MUSICA",Vh1 Classics
+http://tecnotv.club/year/principal.php?c=161&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC1cy7m/CONCERT.jpg" group-title="MUSICA",Concert Channel
