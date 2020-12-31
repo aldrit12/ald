@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",ALDRIT SMART
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="KIDS",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
