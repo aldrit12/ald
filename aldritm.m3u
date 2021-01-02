@@ -21,16 +21,7 @@ http://tecnotv.club/year/principal.php?c=74&f=.m3u8
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CqYFQ68pJP3xYFr4LPUryMt_BKBdUT1PWPPVlpcFqpR9TJYmlCBCfBq8o4oXSHeVfVq57YFrF6rqedXFcjsN4iUXg3_CGTi3TryoRSU-rLaWHLtgREyrDeAjpVxAoB1J6gfIdYLYzcMKQDeusFIqsYbObMnbEyieB7ywH9bUJxCOVq2pIiVT274Ea3__uaNODR8D_d9LD9uabd1T3m52arrXjG7tfpcsZRPkq2EJoo5neeMgCxB4d-1yg1w7HE4MDx5kbmnaNw09Wvp8AAwBLqVaHWfwNXGOsaUTnKlG_st2B08Ie_fwnJDO1oFVR8lbTAKtRJeXx1OYjPV_bJ-bafq3KmgJM5Lk06mFtXcbrDmyHOazKt89ETy50HWPPYYq6nd78IDWbZRsru0QVxmleNY3WQZyAQizWHvu3XkpYSMWN8CoKc03TO7KB0TWQEBOBO4nZr107BZt3uhvEeMI8TjsRij34J1qt8jVvOFxOYpC4GBoHojKq7PVsnuxW4-Td7A0W0B-Scm6A2v7QYeL_EkBtNZVSVXXVGVI0kGBYc-4wsV14oqnbKV5GgT8FyaJfCK1gqcfw0Vlgqfqa_swtYBXHZQXTi1YEt3NsqhAXaZKa16xXbiLlIqMSxgxbDWonehrTmaGe8LB6k-VZZMQD9HPJ3c-gnso5Emb1OCZg3WFE80NuucF-VxSbz1B-Qv0Y23txzr2MdErdXnKeS1rqoPOfFgWpZX3vMBgODoVPL0-YiKOjTuV1loVkkffHqF6E7hx4NoNPxgM5abiqw-ta_0QPBhuam4-boAUQO1I586kIglS5Y-_F57N6HLc0QUCLtnpCDGPQtjZh36PQnzSmBl7dqnMf3G9S3CdpDaekQFM2DpmkD60E1bPTt89s1BIMh9oXqNOn7bLEhBxraxsdEKr1IKCoXLx8FZUGgyFmgSL7TnIIEBgPe0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" logo="https://www.televisiongratishd.com/img/history2.png",HISTORY 2
 http://tecnotv.club/year/principal.php?c=100&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" logo="https://www.televisiongratishd.com/img/tlnovelas.png",GALAVISION
-https://live.televisiongratishd.com/tvplus2021/55_.m3u8?token=vIYMsI0DIzoP51kMCA87sA&expires=1609483883&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS " logo="https://www.televisiongratishd.com/img/tlnovelas.png",TLNOVELAS 
-https://live.televisiongratishd.com/tvplus2021/56_.m3u8?token=hI56z6nJrdgOhBC8wwsFhQ&expires=1609483937&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" logo="https://www.televisiongratishd.com/img/lasestrellas.png",LAS ESTRELLAS
-https://live.televisiongratishd.com/tvplus2021/57_.m3u8?token=-Wj8yUGo8S7U1qowiBE2nA&expires=1609483961&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" logo="https://www.televisiongratishd.com/img/azcinema.png",AZ CINEMA
-https://live.televisiongratishd.com/tvplus2021/54_.m3u8?token=fxyDWlYWUqCSpfoa8lr9qw&expires=1609484001&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" logo="https://www.televisiongratishd.com/img/aztecauno.png",AZTECA UNO
-https://live.televisiongratishd.com/tvplus2021/52_.m3u8?token=s5w0PNi1vxOYSaWWGzq4ag&expires=1609484051&ip=190.108.87.165
+
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL" logo="https://www.televisiongratishd.com/img/cinecanal.png",CINECANAL
 https://live.televisiongratishd.com/tvplus2021/44_.m3u8?token=-gk18lgy4juluZ9USY2WZw&expires=1609484080&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES" logo="https://www.televisiongratishd.com/img/foxpremiummovies.png",FOX PREMIUM MOVIES
@@ -200,4 +191,13 @@ http://zufreelist.net:8080/Z0u7Zspsam/9vWQz6sa0l/910
 http://zufreelist.net:8080/Z0u7Zspsam/9vWQz6sa0l/923
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" logo="https://www.televisiongratishd.com/img/tlnovelas.png",GALAVISION
+https://live.televisiongratishd.com/tvplus2021/55_.m3u8?token=vIYMsI0DIzoP51kMCA87sA&expires=1609483883&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS " logo="https://www.televisiongratishd.com/img/tlnovelas.png",TLNOVELAS 
+https://live.televisiongratishd.com/tvplus2021/56_.m3u8?token=hI56z6nJrdgOhBC8wwsFhQ&expires=1609483937&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" logo="https://www.televisiongratishd.com/img/lasestrellas.png",LAS ESTRELLAS
+https://live.televisiongratishd.com/tvplus2021/57_.m3u8?token=-Wj8yUGo8S7U1qowiBE2nA&expires=1609483961&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" logo="https://www.televisiongratishd.com/img/azcinema.png",AZ CINEMA
+https://live.televisiongratishd.com/tvplus2021/54_.m3u8?token=fxyDWlYWUqCSpfoa8lr9qw&expires=1609484001&ip=190.108.87.165
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" logo="https://www.televisiongratishd.com/img/aztecauno.png",AZTECA UNO
+https://live.televisiongratishd.com/tvplus2021/52_.m3u8?token=s5w0PNi1vxOYSaWWGzq4ag&expires=1609484051&ip=190.108.87.165
