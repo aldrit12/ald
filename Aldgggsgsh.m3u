@@ -1,383 +1,323 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="America TV" tvg-logo="http://54.39.128.48/img/17.png" group-title="POPULAR ARGENTINA",America TV
-http://198.74.59.101:25461/nettprime/23432894983824/68
-#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="http://54.39.128.48/img/16.png" group-title="POPULAR ARGENTINA",A24
-http://198.74.59.101:25461/nettprime/23432894983824/69
-#EXTINF:-1 tvg-id="" tvg-name="CRONICA HD" tvg-logo="http://54.39.128.48/img/21.png" group-title="POPULAR ARGENTINA",CRONICA HD
-http://198.74.59.101:25461/nettprime/23432894983824/73
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://54.39.128.48/img/18.png" group-title="POPULAR ARGENTINA",C5N
-http://198.74.59.101:25461/nettprime/23432894983824/74
-#EXTINF:-1 tvg-id="" tvg-name="Fox sports 2" tvg-logo="" group-title="DEPORTES",Fox sports 2
-http://198.74.59.101:25461/nettprime/23432894983824/237
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="DEPORTES",Fox Sports
-http://198.74.59.101:25461/nettprime/23432894983824/238
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="DEPORTES",ESPN 2
-http://198.74.59.101:25461/nettprime/23432894983824/239
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="" group-title="DEPORTES",Fox Sports 3
-http://198.74.59.101:25461/nettprime/23432894983824/366
-#EXTINF:-1 tvg-id="" tvg-name="Bit Me" tvg-logo="" group-title="INFANTIL",Bit Me
-http://198.74.59.101:25461/nettprime/23432894983824/373
-#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca" tvg-logo="" group-title="CULTURA ENTRETENIMIENTO",Caza y Pesca
-http://198.74.59.101:25461/nettprime/23432894983824/374
-#EXTINF:-1 tvg-id="" tvg-name="Deport TV" tvg-logo="" group-title="DEPORTES",Deport TV
-http://198.74.59.101:25461/nettprime/23432894983824/375
-#EXTINF:-1 tvg-id="" tvg-name="MUSICTOP" tvg-logo="http://new.nettprime.com/public/api/livetv/image/UcYHZEUoUBCTd3e3rzcXn3aS75JMj9MKVd0AJIDb.png" group-title="MUSICA",MUSICTOP
-http://198.74.59.101:25461/nettprime/23432894983824/381
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Rio Gallegos" tvg-logo="https://www.riogallegos.gov.ar/rgl/mirecibo/img/G.png" group-title="LOCALES DE ARGENTINA",Canal 9 Rio Gallegos
-http://198.74.59.101:25461/nettprime/23432894983824/382
-#EXTINF:-1 tvg-id="" tvg-name="El 12 Cordoba" tvg-logo="http://54.39.128.48/img/30.png" group-title="LOCALES DE ARGENTINA",El 12 Cordoba
-http://198.74.59.101:25461/nettprime/23432894983824/385
-#EXTINF:-1 tvg-id="" tvg-name="ATV ARGENTINA" tvg-logo="http://www.m3u.cl/logo/80276_ATV_Argentina.png" group-title="LOCALES DE ARGENTINA",ATV ARGENTINA
-http://198.74.59.101:25461/nettprime/23432894983824/390
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy" tvg-logo="http://www.m3u.cl/logo/108924_Canal_13_Jujuy.png" group-title="LOCALES DE ARGENTINA",Canal 13 Jujuy
-http://198.74.59.101:25461/nettprime/23432894983824/391
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="http://www.m3u.cl/logo/108923_Canal_13_La_Rioja.jpg" group-title="LOCALES DE ARGENTINA",Canal 13 La Rioja
-http://198.74.59.101:25461/nettprime/23432894983824/392
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 San Luis" tvg-logo="http://www.m3u.cl/logo/100591_Canal_13_San_Luis.png" group-title="LOCALES DE ARGENTINA",Canal 13 San Luis
-http://198.74.59.101:25461/nettprime/23432894983824/393
-#EXTINF:-1 tvg-id="" tvg-name="Canal 20 Villamaria" tvg-logo="http://www.m3u.cl/logo/108921_Canal_20_Villamaria.jpg" group-title="LOCALES DE ARGENTINA",Canal 20 Villamaria
-http://198.74.59.101:25461/nettprime/23432894983824/394
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 La Pampa" tvg-logo="http://www.m3u.cl/logo/108919_Canal_3_La_Pampa.png" group-title="LOCALES DE ARGENTINA",Canal 3 La Pampa
-http://198.74.59.101:25461/nettprime/23432894983824/395
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Rosario" tvg-logo="http://www.m3u.cl/logo/106754_Canal_3_Rosario.png" group-title="LOCALES DE ARGENTINA",Canal 3 Rosario
-http://198.74.59.101:25461/nettprime/23432894983824/396
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 San Juan" tvg-logo="http://www.m3u.cl/logo/80282_Canal_4_San_Juan.png" group-title="LOCALES DE ARGENTINA",Canal 4 San Juan
-http://198.74.59.101:25461/nettprime/23432894983824/397
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Monte Caceros" tvg-logo="http://www.m3u.cl/logo/110998_Canal_5_Monte_Caceros.png" group-title="LOCALES DE ARGENTINA",Canal 5 Monte Caceros
-http://198.74.59.101:25461/nettprime/23432894983824/398
-#EXTINF:-1 tvg-id="" tvg-name="Canal 50 Morteros" tvg-logo="http://www.m3u.cl/logo/108917_Canal_50_Morteros.png" group-title="LOCALES DE ARGENTINA",Canal 50 Morteros
-http://198.74.59.101:25461/nettprime/23432894983824/399
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5TV" tvg-logo="https://3.bp.blogspot.com/-rtPZj3znI2E/XCQiuOmqJ8I/AAAAAAAAB_o/s6-eFEtNM18vaNXIz0y5zpleZMHNDrasgCLcBGAs/s200/5-tv-corrientes.jpg" group-title="LOCALES DE ARGENTINA",CANAL 5TV
-http://198.74.59.101:25461/nettprime/23432894983824/400
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Salta" tvg-logo="http://www.m3u.cl/logo/100588_Canal_7_Salta.png" group-title="LOCALES DE ARGENTINA",Canal 7 Salta
-http://198.74.59.101:25461/nettprime/23432894983824/401
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Santiago del estero" tvg-logo="https://genoma.cfi.org.ar/backend/content/galeriaEventos/058021e0-89e7-4787-8110-7c77b4705162.jpg" group-title="LOCALES DE ARGENTINA",Canal 7 Santiago del estero
-http://198.74.59.101:25461/nettprime/23432894983824/402
-#EXTINF:-1 tvg-id="" tvg-name="America TV SD" tvg-logo="" group-title="POPULAR ARGENTINA",America TV SD
-http://198.74.59.101:25461/nettprime/23432894983824/233
-#EXTINF:-1 tvg-id="" tvg-name="Telefe Santa Fe HD" tvg-logo="http://nettprime.com/uploads/tv_image/telefe-hd-santa-fe.png" group-title="LOCALES DE ARGENTINA",Telefe Santa Fe HD
-http://198.74.59.101:25461/nettprime/23432894983824/405
-#EXTINF:-1 tvg-id="" tvg-name="ALF 24HS" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",ALF 24HS
-http://198.74.59.101:25461/nettprime/23432894983824/4
-#EXTINF:-1 tvg-id="" tvg-name="AntiStress 1" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",AntiStress 1
-http://198.74.59.101:25461/nettprime/23432894983824/5
-#EXTINF:-1 tvg-id="" tvg-name="AntiStress 2" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",AntiStress 2
-http://198.74.59.101:25461/nettprime/23432894983824/6
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",Bob Esponja
-http://198.74.59.101:25461/nettprime/23432894983824/7
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",Cantinflas
-http://198.74.59.101:25461/nettprime/23432894983824/8
-#EXTINF:-1 tvg-id="" tvg-name="El Auto Fantastico" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",El Auto Fantastico
-http://198.74.59.101:25461/nettprime/23432894983824/9
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",El Chavo del 8
-http://198.74.59.101:25461/nettprime/23432894983824/10
-#EXTINF:-1 tvg-id="" tvg-name="Los 3 Chiflados" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",Los 3 Chiflados
-http://198.74.59.101:25461/nettprime/23432894983824/11
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",Los Simpsons
-http://198.74.59.101:25461/nettprime/23432894983824/12
-#EXTINF:-1 tvg-id="" tvg-name="Principe Bel-Air" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",Principe Bel-Air
-http://198.74.59.101:25461/nettprime/23432894983824/13
-#EXTINF:-1 tvg-id="" tvg-name="SouthPark" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",SouthPark
-http://198.74.59.101:25461/nettprime/23432894983824/15
-#EXTINF:-1 tvg-id="" tvg-name="SuperCampeones" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",SuperCampeones
-http://198.74.59.101:25461/nettprime/23432894983824/17
-#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",Tom y Jerry
-http://198.74.59.101:25461/nettprime/23432894983824/18
-#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/BarcaTV_c.png" group-title="DEPORTES",Barca TV
-http://198.74.59.101:25461/nettprime/23432894983824/29
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
-http://198.74.59.101:25461/nettprime/23432894983824/30
-#EXTINF:-1 tvg-id="" tvg-name="Canal Golf" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/the_golf_channel_c.png" group-title="DEPORTES",Canal Golf
-http://198.74.59.101:25461/nettprime/23432894983824/32
-#EXTINF:-1 tvg-id="" tvg-name="SuperAgente 86" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",SuperAgente 86
-http://198.74.59.101:25461/nettprime/23432894983824/16
-#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="" group-title="CLASICOS Y POPULARES 24HS",Scooby Doo
-http://198.74.59.101:25461/nettprime/23432894983824/14
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Latam" tvg-logo="http://54.39.128.48/img/42.png" group-title="DEPORTES",Claro Sports Latam
-http://198.74.59.101:25461/nettprime/23432894983824/33
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports" tvg-logo="http://54.39.128.48/img/43.png" group-title="DEPORTES",DirecTV Sports
-http://198.74.59.101:25461/nettprime/23432894983824/34
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports +" tvg-logo="http://54.39.128.48/img/46.png" group-title="DEPORTES",DirecTV Sports +
-http://198.74.59.101:25461/nettprime/23432894983824/35
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 2" tvg-logo="http://54.39.128.48/img/44.png" group-title="DEPORTES",DirecTV Sports 2
-http://198.74.59.101:25461/nettprime/23432894983824/36
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://54.39.128.48/img/47.png" group-title="DEPORTES",ESPN
-http://198.74.59.101:25461/nettprime/23432894983824/39
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://54.39.128.48/img/48.png" group-title="DEPORTES",ESPN EXTRA
-http://198.74.59.101:25461/nettprime/23432894983824/40
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://54.39.128.48/img/50.png" group-title="DEPORTES",ESPN 3
-http://198.74.59.101:25461/nettprime/23432894983824/42
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ACC" tvg-logo="" group-title="DEPORTES",ESPN ACC
-http://198.74.59.101:25461/nettprime/23432894983824/43
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="" group-title="DEPORTES",ESPN DEPORTES
-http://198.74.59.101:25461/nettprime/23432894983824/44
-#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="http://54.39.128.48/img/54.png" group-title="DEPORTES",GOLF
-http://198.74.59.101:25461/nettprime/23432894983824/48
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://54.39.128.48/img/58.png" group-title="DEPORTES",Movistar Deportes
-http://198.74.59.101:25461/nettprime/23432894983824/51
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="http://54.39.128.48/img/66.png" group-title="PACK FUTBOL PREMIUM",TNT Sports HD
-http://198.74.59.101:25461/nettprime/23432894983824/60
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium HD" tvg-logo="http://54.39.128.48/img/51.png" group-title="PACK FUTBOL PREMIUM",Fox Sports Premium HD
-http://198.74.59.101:25461/nettprime/23432894983824/62
-#EXTINF:-1 tvg-id="" tvg-name="MLB HD" tvg-logo="http://54.39.128.48/img/57.png" group-title="DEPORTES",MLB HD
-http://198.74.59.101:25461/nettprime/23432894983824/50
-#EXTINF:-1 tvg-id="" tvg-name="TYC Sports Internacional" tvg-logo="https://media02.statarea.com/images/tv/628.png" group-title="DEPORTES",TYC Sports Internacional
-http://198.74.59.101:25461/nettprime/23432894983824/64
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="http://54.39.128.48/img/68.png" group-title="DEPORTES",TyC Sports
-http://198.74.59.101:25461/nettprime/23432894983824/65
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="http://54.39.128.48/img/69.png" group-title="DEPORTES",WIN SPORTS
-http://198.74.59.101:25461/nettprime/23432894983824/66
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://54.39.128.48/img/40.png" group-title="POPULAR ARGENTINA",NET TV
-http://198.74.59.101:25461/nettprime/23432894983824/70
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 26" tvg-logo="http://54.39.128.48/img/19.png" group-title="POPULAR ARGENTINA",CANAL 26
-http://198.74.59.101:25461/nettprime/23432894983824/71
-#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="http://54.39.128.48/img/29.png" group-title="POPULAR ARGENTINA",TV PUBLICA
-http://198.74.59.101:25461/nettprime/23432894983824/72
-#EXTINF:-1 tvg-id="" tvg-name="El Nueve" tvg-logo="http://54.39.128.48/img/24.png" group-title="POPULAR ARGENTINA",El Nueve
-http://198.74.59.101:25461/nettprime/23432894983824/75
-#EXTINF:-1 tvg-id="" tvg-name="El Trece 13" tvg-logo="http://54.39.128.48/img/25.png" group-title="POPULAR ARGENTINA",El Trece 13
-http://198.74.59.101:25461/nettprime/23432894983824/76
-#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="http://54.39.128.48/img/27.png" group-title="POPULAR ARGENTINA",Telefe
-http://198.74.59.101:25461/nettprime/23432894983824/77
-#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="http://54.39.128.48/img/26.png" group-title="POPULAR ARGENTINA",LN+
-http://198.74.59.101:25461/nettprime/23432894983824/78
-#EXTINF:-1 tvg-id="" tvg-name="24/7 NOTICIAS" tvg-logo="http://54.39.128.48/img/33.png" group-title="NOTICIAS",24/7 NOTICIAS
-http://198.74.59.101:25461/nettprime/23432894983824/80
-#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://pbs.twimg.com/profile_images/687672669832110080/u9QE17L7_400x400.png" group-title="NOTICIAS",BBC World
-http://198.74.59.101:25461/nettprime/23432894983824/81
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 MAR DEL PLATA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata.png" group-title="LOCALES DE ARGENTINA",CANAL 10 MAR DEL PLATA
-http://198.74.59.101:25461/nettprime/23432894983824/83
-#EXTINF:-1 tvg-id="" tvg-name="AIRE SANTA FE" tvg-logo="https://pbs.twimg.com/profile_images/1004818680847523840/fxdDSHAw.jpg" group-title="LOCALES DE ARGENTINA",AIRE SANTA FE
-http://198.74.59.101:25461/nettprime/23432894983824/84
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://54.39.128.48/img/41.png" group-title="NOTICIAS",CNN
-http://198.74.59.101:25461/nettprime/23432894983824/82
-#EXTINF:-1 tvg-id="" tvg-name="13 MAX (CORRIENTES)" tvg-logo="" group-title="LOCALES DE ARGENTINA",13 MAX (CORRIENTES)
-http://198.74.59.101:25461/nettprime/23432894983824/86
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="" group-title="LOCALES DE ARGENTINA",ARGENTINISIMA SATELITAL
-http://198.74.59.101:25461/nettprime/23432894983824/87
-#EXTINF:-1 tvg-id="" tvg-name="CHACO TV" tvg-logo="" group-title="LOCALES DE ARGENTINA",CHACO TV
-http://198.74.59.101:25461/nettprime/23432894983824/88
-#EXTINF:-1 tvg-id="" tvg-name="TELEDIARIO CORDOBA" tvg-logo="" group-title="LOCALES DE ARGENTINA",TELEDIARIO CORDOBA
-http://198.74.59.101:25461/nettprime/23432894983824/89
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 4 JUJUY" tvg-logo="" group-title="LOCALES DE ARGENTINA",CANAL 4 JUJUY
-http://198.74.59.101:25461/nettprime/23432894983824/90
-#EXTINF:-1 tvg-id="" tvg-name="EL GARAGE" tvg-logo="" group-title="LOCALES DE ARGENTINA",EL GARAGE
-http://198.74.59.101:25461/nettprime/23432894983824/91
-#EXTINF:-1 tvg-id="" tvg-name="TELEMAX HD" tvg-logo="" group-title="LOCALES DE ARGENTINA",TELEMAX HD
-http://198.74.59.101:25461/nettprime/23432894983824/92
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE ROSARIO HD" tvg-logo="" group-title="LOCALES DE ARGENTINA",TELEFE ROSARIO HD
-http://198.74.59.101:25461/nettprime/23432894983824/94
-#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="" group-title="INFANTIL",Fuel TV
-http://198.74.59.101:25461/nettprime/23432894983824/96
-#EXTINF:-1 tvg-id="" tvg-name="NickToons" tvg-logo="" group-title="INFANTIL",NickToons
-http://198.74.59.101:25461/nettprime/23432894983824/97
-#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" tvg-logo="" group-title="INFANTIL",BABY FIRST
-http://198.74.59.101:25461/nettprime/23432894983824/98
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://54.39.128.48/img/71.png" group-title="INFANTIL",BABY TV
-http://198.74.59.101:25461/nettprime/23432894983824/99
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://54.39.128.48/img/72.png" group-title="INFANTIL",Boomerang
-http://198.74.59.101:25461/nettprime/23432894983824/100
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://54.39.128.48/img/73.png" group-title="INFANTIL",Cartoon Network
-http://198.74.59.101:25461/nettprime/23432894983824/101
-#EXTINF:-1 tvg-id="" tvg-name="Discovery kids" tvg-logo="http://54.39.128.48/img/74.png" group-title="INFANTIL",Discovery kids
-http://198.74.59.101:25461/nettprime/23432894983824/102
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="http://54.39.128.48/img/76.png" group-title="INFANTIL",Disney Jr
-http://198.74.59.101:25461/nettprime/23432894983824/103
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://54.39.128.48/img/77.png" group-title="INFANTIL",Disney XD
-http://198.74.59.101:25461/nettprime/23432894983824/104
-#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="http://54.39.128.48/img/79.png" group-title="INFANTIL",LOCOMOTION
-http://198.74.59.101:25461/nettprime/23432894983824/105
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="http://54.39.128.48/img/80.png" group-title="INFANTIL",Nat Geo Kids
-http://198.74.59.101:25461/nettprime/23432894983824/106
-#EXTINF:-1 tvg-id="" tvg-name="Nick Central" tvg-logo="http://54.39.128.48/img/82.png" group-title="INFANTIL",Nick Central
-http://198.74.59.101:25461/nettprime/23432894983824/108
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",Nick Jr
-http://198.74.59.101:25461/nettprime/23432894983824/109
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://54.39.128.48/img/84.png" group-title="INFANTIL",Tooncast
-http://198.74.59.101:25461/nettprime/23432894983824/111
-#EXTINF:-1 tvg-id="" tvg-name="Nick 2" tvg-logo="http://54.39.128.48/img/81.png" group-title="INFANTIL",Nick 2
-http://198.74.59.101:25461/nettprime/23432894983824/107
-#EXTINF:-1 tvg-id="" tvg-name="A3S Series" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2015/11/10/80BBD3A5-3843-4BCE-AA2D-8064DC738680/default.jpg" group-title="CINE",A3S Series
-http://198.74.59.101:25461/nettprime/23432894983824/112
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://54.39.128.48/img/87.png" group-title="CINE",AMC
-http://198.74.59.101:25461/nettprime/23432894983824/113
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://54.39.128.48/img/98.png" group-title="CINE",AXN
-http://198.74.59.101:25461/nettprime/23432894983824/114
-#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-logo="http://54.39.128.48/img/131.png" group-title="CINE",Cine Canal
-http://198.74.59.101:25461/nettprime/23432894983824/115
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="http://54.39.128.48/img/120.png" group-title="CINE",Cine Latino
-http://198.74.59.101:25461/nettprime/23432894983824/116
-#EXTINF:-1 tvg-id="" tvg-name="Cinema +" tvg-logo="http://54.39.128.48/img/142.png" group-title="CINE",Cinema +
-http://198.74.59.101:25461/nettprime/23432894983824/117
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="http://54.39.128.48/img/153.png" group-title="CINE",Cinema Dinamita
-http://198.74.59.101:25461/nettprime/23432894983824/118
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://54.39.128.48/img/164.png" group-title="CINE",Cinemax
-http://198.74.59.101:25461/nettprime/23432894983824/119
-#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="http://54.39.128.48/img/167.png" group-title="CINE",Claro Cinema
-http://198.74.59.101:25461/nettprime/23432894983824/120
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://54.39.128.48/img/88.png" group-title="CINE",Comedy Central
-http://198.74.59.101:25461/nettprime/23432894983824/121
-#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="http://54.39.128.48/img/89.png" group-title="CINE",Concert Channel
-http://198.74.59.101:25461/nettprime/23432894983824/122
-#EXTINF:-1 tvg-id="" tvg-name="De pelicula" tvg-logo="http://54.39.128.48/img/90.png" group-title="CINE",De pelicula
-http://198.74.59.101:25461/nettprime/23432894983824/123
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="http://54.39.128.48/img/91.png" group-title="CINE",DHE
-http://198.74.59.101:25461/nettprime/23432894983824/124
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="http://54.39.128.48/img/92.png" group-title="CINE",Distrito Comedia
-http://198.74.59.101:25461/nettprime/23432894983824/125
-#EXTINF:-1 tvg-id="" tvg-name="Film Arts" tvg-logo="https://assets.change.org/photos/4/mh/af/TnmHaFLAxPeqxbE-400x400-noPad.jpg" group-title="CINE",Film Arts
-http://198.74.59.101:25461/nettprime/23432894983824/126
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://54.39.128.48/img/93.png" group-title="ENTRETENIMIENTO",E!
-http://198.74.59.101:25461/nettprime/23432894983824/127
-#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema" tvg-logo="" group-title="LOCALES DE ARGENTINA",AZ Cinema
-http://198.74.59.101:25461/nettprime/23432894983824/128
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://54.39.128.48/img/122.png" group-title="CINE",Paramount
-http://198.74.59.101:25461/nettprime/23432894983824/129
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://54.39.128.48/img/86.png" group-title="CULTURA ENTRETENIMIENTO",A&E
-http://198.74.59.101:25461/nettprime/23432894983824/130
-#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="http://54.39.128.48/img/124.png" group-title="CINE",Sony
-http://198.74.59.101:25461/nettprime/23432894983824/131
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://54.39.128.48/img/125.png" group-title="CINE",Space
-http://198.74.59.101:25461/nettprime/23432894983824/132
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://54.39.128.48/img/127.png" group-title="CINE",Studio Universal
-http://198.74.59.101:25461/nettprime/23432894983824/133
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://54.39.128.48/img/128.png" group-title="CINE",SYFY
-http://198.74.59.101:25461/nettprime/23432894983824/134
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://54.39.128.48/img/129.png" group-title="CINE",TBS
-http://198.74.59.101:25461/nettprime/23432894983824/135
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://54.39.128.48/img/130.png" group-title="CINE",TCM
-http://198.74.59.101:25461/nettprime/23432894983824/136
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://54.39.128.48/img/132.png" group-title="CINE",TNT
-http://198.74.59.101:25461/nettprime/23432894983824/137
-#EXTINF:-1 tvg-id="" tvg-name="Tnt series" tvg-logo="http://54.39.128.48/img/133.png" group-title="CINE",Tnt series
-http://198.74.59.101:25461/nettprime/23432894983824/138
-#EXTINF:-1 tvg-id="" tvg-name="Tru tv" tvg-logo="http://54.39.128.48/img/134.png" group-title="ENTRETENIMIENTO",Tru tv
-http://198.74.59.101:25461/nettprime/23432894983824/139
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="http://54.39.128.48/img/135.png" group-title="CINE",Universal
-http://198.74.59.101:25461/nettprime/23432894983824/144
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://54.39.128.48/img/136.png" group-title="CINE",Warner Channel
-http://198.74.59.101:25461/nettprime/23432894983824/145
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://54.39.128.48/img/138.png" group-title="CULTURA ENTRETENIMIENTO",Animal Planet
-http://198.74.59.101:25461/nettprime/23432894983824/146
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://54.39.128.48/img/139.png" group-title="DISCOVERY",Discovery Channel
-http://198.74.59.101:25461/nettprime/23432894983824/147
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://54.39.128.48/img/156.png" group-title="DISCOVERY",Discovery Civilization
-http://198.74.59.101:25461/nettprime/23432894983824/148
-#EXTINF:-1 tvg-id="" tvg-name="Home and Health" tvg-logo="http://54.39.128.48/img/140.png" group-title="DISCOVERY",Home and Health
-http://198.74.59.101:25461/nettprime/23432894983824/149
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://54.39.128.48/img/141.png" group-title="DISCOVERY",Discovery Science
-http://198.74.59.101:25461/nettprime/23432894983824/150
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="http://54.39.128.48/img/143.png" group-title="DISCOVERY",Discovery Theater
-http://198.74.59.101:25461/nettprime/23432894983824/151
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="http://54.39.128.48/img/144.png" group-title="DISCOVERY",Discovery TLC
-http://198.74.59.101:25461/nettprime/23432894983824/152
-#EXTINF:-1 tvg-id="" tvg-name="Discovery turbo" tvg-logo="http://54.39.128.48/img/145.png" group-title="DISCOVERY",Discovery turbo
-http://198.74.59.101:25461/nettprime/23432894983824/153
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://54.39.128.48/img/146.png" group-title="DISCOVERY",Discovery World
-http://198.74.59.101:25461/nettprime/23432894983824/154
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="http://54.39.128.48/img/150.png" group-title="DISCOVERY",Discovery ID
-http://198.74.59.101:25461/nettprime/23432894983824/155
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="http://54.39.128.48/img/147.png" group-title="COCINA",El Gourmet
-http://198.74.59.101:25461/nettprime/23432894983824/156
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="http://54.39.128.48/img/149.png" group-title="CULTURA ENTRETENIMIENTO",History Channel
-http://198.74.59.101:25461/nettprime/23432894983824/157
-#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="http://54.39.128.48/img/148.png" group-title="CULTURA ENTRETENIMIENTO",History 2
-http://198.74.59.101:25461/nettprime/23432894983824/158
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://54.39.128.48/img/151.png" group-title="CULTURA ENTRETENIMIENTO",Nat Geo
-http://198.74.59.101:25461/nettprime/23432894983824/159
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="http://54.39.128.48/img/152.png" group-title="CULTURA ENTRETENIMIENTO",Nat Geo Wild
-http://198.74.59.101:25461/nettprime/23432894983824/160
-#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="http://54.39.128.48/img/39.png" group-title="TELENOVELAS",Ciudad Magazine
-http://198.74.59.101:25461/nettprime/23432894983824/161
-#EXTINF:-1 tvg-id="" tvg-name="CDF Basico" tvg-logo="https://3.bp.blogspot.com/-BC2gESZviJ8/VBO0QbFfPsI/AAAAAAAACzc/hOChWD8tlFk/s1600/CDF%2BB%C3%A1sico.png" group-title="DEPORTES",CDF Basico
-http://198.74.59.101:25461/nettprime/23432894983824/163
-#EXTINF:-1 tvg-id="" tvg-name="CDF Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES",CDF Premium
-http://198.74.59.101:25461/nettprime/23432894983824/164
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2012_CARACOL_TV_Internacional_logo.svg/1200px-2012_CARACOL_TV_Internacional_logo.svg.png" group-title="TELENOVELAS",Caracol Internacional
-http://198.74.59.101:25461/nettprime/23432894983824/165
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://files.lafm.com.co/assets/public/styles/image_631x369/public/rcn.png" group-title="TELENOVELAS",RCN HD
-http://198.74.59.101:25461/nettprime/23432894983824/166
-#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/CanalRCNNovelas2019.png" group-title="TELENOVELAS",RCN Telenovelas
-http://198.74.59.101:25461/nettprime/23432894983824/168
-#EXTINF:-1 tvg-id="" tvg-name="Canal DeCasa" tvg-logo="https://decasa.tv/images/logo-decasa.png" group-title="ENTRETENIMIENTO",Canal DeCasa
-http://198.74.59.101:25461/nettprime/23432894983824/169
-#EXTINF:-1 tvg-id="" tvg-name="GolTV" tvg-logo="http://54.39.128.48/img/55.png" group-title="DEPORTES",GolTV
-http://198.74.59.101:25461/nettprime/23432894983824/171
-#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon" tvg-logo="https://www.pngkit.com/png/full/298-2981889_49-novelas-az-clic.png" group-title="TELENOVELAS",AZ Corazon
-http://198.74.59.101:25461/nettprime/23432894983824/173
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/418.png" group-title="TELENOVELAS",Azteca 7
-http://198.74.59.101:25461/nettprime/23432894983824/174
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="https://i.imgur.com/Yz6kgjQ.png" group-title="ENTRETENIMIENTO",Azteca Uno
-http://198.74.59.101:25461/nettprime/23432894983824/175
-#EXTINF:-1 tvg-id="" tvg-name="DW America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS",DW America
-http://198.74.59.101:25461/nettprime/23432894983824/176
-#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1200px-Logo_Glitz.svg.png" group-title="ENTRETENIMIENTO",Glitz
-http://198.74.59.101:25461/nettprime/23432894983824/177
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="https://image.ibb.co/cxxBZz/holatv.png" group-title="ENTRETENIMIENTO",Hola TV
-http://198.74.59.101:25461/nettprime/23432894983824/178
-#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_de_Telenovela.png" group-title="TELENOVELAS",Telenovelas
-http://198.74.59.101:25461/nettprime/23432894983824/180
-#EXTINF:-1 tvg-id="" tvg-name="1 Music" tvg-logo="" group-title="MUSICA",1 Music
-http://198.74.59.101:25461/nettprime/23432894983824/181
-#EXTINF:-1 tvg-id="" tvg-name="BRITS HITS" tvg-logo="" group-title="MUSICA",BRITS HITS
-http://198.74.59.101:25461/nettprime/23432894983824/185
-#EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel" tvg-logo="" group-title="MUSICA",Hit Music Channel
-http://198.74.59.101:25461/nettprime/23432894983824/191
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://54.39.128.48/img/158.png" group-title="ENTRETENIMIENTO",MTV
-http://198.74.59.101:25461/nettprime/23432894983824/193
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA URBANA" tvg-logo="" group-title="MUSICA",MUSICA URBANA
-http://198.74.59.101:25461/nettprime/23432894983824/194
-#EXTINF:-1 tvg-id="" tvg-name="POP LATINO" tvg-logo="" group-title="MUSICA",POP LATINO
-http://198.74.59.101:25461/nettprime/23432894983824/195
-#EXTINF:-1 tvg-id="" tvg-name="ROCK" tvg-logo="" group-title="MUSICA",ROCK
-http://198.74.59.101:25461/nettprime/23432894983824/200
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://54.39.128.48/img/163.png" group-title="MUSICA",VH1 HD
-http://198.74.59.101:25461/nettprime/23432894983824/201
-#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="https://www.nicepng.com/png/full/22-224873_enlace-logo-enlace-logo-png.png" group-title="RELIGION",Enlace
-http://198.74.59.101:25461/nettprime/23432894983824/202
-#EXTINF:-1 tvg-id="" tvg-name="Cristovision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png" group-title="RELIGION",Cristovision
-http://198.74.59.101:25461/nettprime/23432894983824/203
-#EXTINF:-1 tvg-id="" tvg-name="Red Advenir" tvg-logo="https://gospelministry.org/wp-content/uploads/Red-Advenir-png-no-background-e1541019454324-1024x532.png" group-title="RELIGION",Red Advenir
-http://198.74.59.101:25461/nettprime/23432894983824/204
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="http://54.39.128.48/img/106.png" group-title="ENTRETENIMIENTO",Golden
-http://198.74.59.101:25461/nettprime/23432894983824/205
-#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://54.39.128.48/img/114.png" group-title="CINE",I-SAT
-http://198.74.59.101:25461/nettprime/23432894983824/214
-#EXTINF:-1 tvg-id="" tvg-name="Fox Channel" tvg-logo="http://54.39.128.48/img/94.png" group-title="POPULAR ARGENTINA",Fox Channel
-http://198.74.59.101:25461/nettprime/23432894983824/216
-#EXTINF:-1 tvg-id="" tvg-name="Fox Action" tvg-logo="http://54.39.128.48/img/95.png" group-title="PACK FOX PREMIUM",Fox Action
-http://198.74.59.101:25461/nettprime/23432894983824/217
-#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema" tvg-logo="http://54.39.128.48/img/97.png" group-title="PACK FOX PREMIUM",Fox Cinema
-http://198.74.59.101:25461/nettprime/23432894983824/218
-#EXTINF:-1 tvg-id="" tvg-name="Fox Classics" tvg-logo="http://54.39.128.48/img/99.png" group-title="PACK FOX PREMIUM",Fox Classics
-http://198.74.59.101:25461/nettprime/23432894983824/219
-#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy" tvg-logo="http://54.39.128.48/img/100.png" group-title="PACK FOX PREMIUM",Fox Comedy
-http://198.74.59.101:25461/nettprime/23432894983824/220
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family" tvg-logo="http://54.39.128.48/img/101.png" group-title="PACK FOX PREMIUM",Fox Family
-http://198.74.59.101:25461/nettprime/23432894983824/221
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="http://54.39.128.48/img/102.png" group-title="PACK FOX PREMIUM",Fox Movies
-http://198.74.59.101:25461/nettprime/23432894983824/222
-#EXTINF:-1 tvg-id="" tvg-name="Fox Series" tvg-logo="http://54.39.128.48/img/104.png" group-title="PACK FOX PREMIUM",Fox Series
-http://198.74.59.101:25461/nettprime/23432894983824/223
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://54.39.128.48/img/103.png" group-title="PACK FOX PREMIUM",Fox Life
-http://198.74.59.101:25461/nettprime/23432894983824/224
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://54.39.128.48/img/105.png" group-title="CINE",FX
-http://198.74.59.101:25461/nettprime/23432894983824/225
-#EXTINF:-1 tvg-id="" tvg-name="Volver" tvg-logo="http://nettprime.com/uploads/tv_image/vover.png" group-title="TELENOVELAS",Volver
-http://198.74.59.101:25461/nettprime/23432894983824/226
-#EXTINF:-1 tvg-id="" tvg-name="Disney channel" tvg-logo="http://54.39.128.48/img/75.png" group-title="INFANTIL",Disney channel
-http://198.74.59.101:25461/nettprime/23432894983824/227
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://nettprime.com/uploads/tv_image/sm/dragon-ball-z.png" group-title="CLASICOS Y POPULARES 24HS",Dragon Ball Z
-http://198.74.59.101:25461/nettprime/23432894983824/230
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="http://www.m3u.cl/logo/100583_Canal_7_Jujuy.png" group-title="LOCALES DE ARGENTINA",Canal 7 Jujuy
-http://198.74.59.101:25461/nettprime/23432894983824/231
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="TELENOVELAS",Telemundo
-http://198.74.59.101:25461/nettprime/23432894983824/232
-#EXTINF:-1 tvg-id="" tvg-name="A24 - PC" tvg-logo="" group-title="POPULAR ARGENTINA",A24 - PC
-http://198.74.59.101:25461/nettprime/23432894983824/234
-#EXTINF:-1 tvg-id="" tvg-name="Cronica HD - PC" tvg-logo="" group-title="POPULAR ARGENTINA",Cronica HD - PC
-http://198.74.59.101:25461/nettprime/23432894983824/235
-#EXTINF:-1 tvg-id="" tvg-name="telefewe" tvg-logo="" group-title="POPULAR ARGENTINA",telefewe
-http://198.74.59.101:25461/nettprime/23432894983824/367
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE HD" tvg-logo="" group-title="POPULAR ARGENTINA",TELEFE HD
-http://198.74.59.101:25461/nettprime/23432894983824/376
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/872
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/873
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTOS GREEM" tvg-logo="" group-title="24/7",24/7  CUENTOS GREEM
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/874
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/875
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="" group-title="24/7",24/7  DRAGON BALL 1984
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/876
+#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/877
+#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="" group-title="24/7",24/7  SOUTH PARK
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/878
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="" group-title="24/7",24/7  THE WALKING DEAD
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/879
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/880
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AÃ‘OS MARAVILLOSOS 1988" tvg-logo="" group-title="24/7",24/7 AÃ‘OS MARAVILLOSOS 1988
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="" group-title="24/7",24/7 BARNY Y SUS AMIGOS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/882
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",24/7 BATMAN 1966 RETRO
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/883
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/884
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/885
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CASO CERRADO "SEXUALIDAD"" tvg-logo="" group-title="24/7",24/7 CASO CERRADO "SEXUALIDAD"
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/888
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="" group-title="24/7",24/7 CSI: MIAMI
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/889
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON  BALL SUPER" tvg-logo="" group-title="24/7",24/7 DRAGON  BALL SUPER
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z 1989" tvg-logo="" group-title="24/7",24/7 DRAGON BALL Z 1989
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El AvispÃ³n Verde" tvg-logo="" group-title="24/7",24/7 El AvispÃ³n Verde
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/896
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/897
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/898
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/899
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATON DEL MAL" tvg-logo="" group-title="24/7",24/7 EL PATON DEL MAL
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/900
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tvg-logo="" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/901
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="" group-title="24/7",24/7 FUTURAMA 1999
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/902
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY TREE FRIENDS" tvg-logo="" group-title="24/7",24/7 HAPPY TREE FRIENDS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/903
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/904
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÃ‰ROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/905
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="" group-title="24/7",24/7 JUEGO DE TRONOS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/906
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/907
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/908
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="" group-title="24/7",24/7 LA HORA PICO
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="" group-title="24/7",24/7 LA PANTERA ROSA
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA RISA EN VACIONES" tvg-logo="" group-title="24/7",24/7 LA RISA EN VACIONES
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/911
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/912
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="" group-title="24/7",24/7 LAZY TOWN
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/913
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/914
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="" group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/915
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/916
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/917
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/918
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/919
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/920
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/921
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="" group-title="24/7",24/7 PEPPA PIG
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/922
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY y CEREBRO" tvg-logo="" group-title="24/7",24/7 PINKY y CEREBRO
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/923
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PokÃ©mon" tvg-logo="" group-title="24/7",24/7 PokÃ©mon
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/924
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="" group-title="24/7",24/7 POWER RANGERS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="" group-title="24/7",24/7 ROBOTECH
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="" group-title="24/7",24/7 SAILOR MOON
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/927
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/928
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/929
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="" group-title="24/7",24/7 SHERA
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/930
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="" group-title="24/7",24/7 SMALLVILLE
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/931
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="" group-title="24/7",24/7 SPIDER-MAN
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/932
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="" group-title="24/7",24/7 STRANGER THINGS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/933
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/934
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="" group-title="24/7",24/7 THUNDERCAST
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/935
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/936
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  DINAMITA SD*" tvg-logo="" group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  TCM SD*" tvg-logo="" group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/2
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AMC SD*" tvg-logo="" group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/3
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AZTECA CINEMA" tvg-logo="" group-title="CINEMA",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/4
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE CANAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/5
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE LATINO SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/6
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINEMAX SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/7
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CLARO CINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA PLUS" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/9
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA TP MX" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/10
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX ACTION SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/11
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX CLASICO SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/14
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX COMEDY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/15
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX FAMYLY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/16
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX MOVIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/17
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX SERIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/18
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN PREMIER 1" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/19
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN SD*" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/20
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/21
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/22
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/23
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="" group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/24
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Plus SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/25
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO XTREAME SD *" tvg-logo="" group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/26
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTICINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/27
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTIPREMIER SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/28
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: PARAMOUNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/29
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SPACE SD*" tvg-logo="" group-title="Canelo Alvarez v. Callum Smith EVENTOS",CINEMA: SPACE SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/30
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: STUDIO UNIVERSAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/31
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SYFY*" tvg-logo="" group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/32
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: TNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/33
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ANIMAL PLANET SD*" tvg-logo="" group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/34
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CHANNEL SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/35
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CIVILIZATION SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/36
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY H&H SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/37
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY SCIENCE SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/38
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY THEATHER HD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/39
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY TURBO SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/40
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: H2 SD*" tvg-logo="" group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/41
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY SD*" tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/42
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ID SD*" tvg-logo="" group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/43
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NAT GEO SD*" tvg-logo="" group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/44
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NATGEO WILD  SD*" tvg-logo="" group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/45
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: TLC SD*" tvg-logo="" group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/46
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE GALAVISION" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/48
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ANTENA3 SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/49
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: AZ MUNDO SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/50
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: COMEDY CENTRAL HD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/51
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DHE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/52
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DISTRITO COMEDIA TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/53
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: E! SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/54
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: EL GOURMET SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/55
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ESTRELLATV" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/65
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FASHION ONE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/56
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FILM & ARTS SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/57
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FOOD NETWORK TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/58
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: HOLA !TV SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/59
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: LIFE TIME SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/60
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: MAS CHIC SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/61
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: TL NOVELAS TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/62
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: UNICABLE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/63
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO: FOX LIFE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/64
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/66
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Baby TV*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/80
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: BIT ME TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/89
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Boomerang*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/81
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Discovery Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/82
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney JR SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/84
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/83
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney XD SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/85
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nat Geo Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/86
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nick Jr SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/87
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nickelodeon SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/88
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: TOONCAST TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/90
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A&E SD*" tvg-logo="" group-title="SERIES",SERIE: A&E SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/67
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A3SERIES" tvg-logo="" group-title="SERIES",SERIE: A3SERIES
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/68
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: AXN SD*" tvg-logo="" group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/69
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: EURO Channel SD*" tvg-logo="" group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/70
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FOX SD *" tvg-logo="" group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/71
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX Movies SD*" tvg-logo="" group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/72
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX SD*" tvg-logo="" group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/73
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FXM TP MX" tvg-logo="" group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/74
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: SONY SD*" tvg-logo="" group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/76
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: TNT SERIES*" tvg-logo="" group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/77
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: UNIVERSAL TV SD*" tvg-logo="" group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/78
+#EXTINF:-1 tvg-id="" tvg-name="SERIES: WARNER SD*" tvg-logo="" group-title="SERIES",SERIES: WARNER SD*
+http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/79
+#EXTINF:-1 tvg-id="" tvg-name="007: AL SERVICIO SECRETO DE SU MAJESTAD" tvg-logo="" group-title="*PELICULAS ACCION*",007: AL SERVICIO SECRETO DE SU MAJESTAD
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: AL SERVICIO SECRETO DE SU MAJESTAD" tvg-logo="" group-title="*PELICULAS ACCION*",007: AL SERVICIO SECRETO DE SU MAJESTAD
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE" tvg-logo="" group-title="*PELICULAS ACCION*",007: CASINO ROYALE
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE" tvg-logo="" group-title="*PELICULAS ACCION*",007: CASINO ROYALE
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE 1967" tvg-logo="" group-title="*PELICULAS ACCION*",007: CASINO ROYALE 1967
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE 1967" tvg-logo="" group-title="*PELICULAS ACCION*",007: CASINO ROYALE 1967
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CONTRA EL DR. NO" tvg-logo="" group-title="*PELICULAS ACCION*",007: CONTRA EL DR. NO
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CONTRA EL DR. NO" tvg-logo="" group-title="*PELICULAS ACCION*",007: CONTRA EL DR. NO
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: DESDE RUSIA CON AMOR" tvg-logo="" group-title="*PELICULAS ACCION*",007: DESDE RUSIA CON AMOR
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: DESDE RUSIA CON AMOR" tvg-logo="" group-title="*PELICULAS ACCION*",007: DESDE RUSIA CON AMOR
+http://zufreelist.net:8080/movie/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/347.mp4
