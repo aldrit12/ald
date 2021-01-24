@@ -1,594 +1,199 @@
 #EXTM3U
 
 
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7  ESCANDALOSOS" tvg-logo="https://www.netclipart.com/pp/m/205-2053555_transparent-we-bare-bears-png-we-bare-bears.png" group-title="Canales 24-7 ",24-7  ESCANDALOSOS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4737.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7  PAW PATROL" tvg-logo="http://i.imgur.com/KbmoXRp.jpg" group-title="Canales 24-7 ",24-7  PAW PATROL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/202.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7  SEINFELD" tvg-logo="https://i.imgur.com/MRkge7V.png" group-title="Canales 24-7 ",24-7  SEINFELD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4734.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 BOB ESPONJA" tvg-logo="https://i.imgur.com/Zjss2EN.png" group-title="Canales 24-7 ",24-7 BOB ESPONJA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/192.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 CARTOON NERDWORK" tvg-logo="https://i.imgur.com/mHyEVFC.png" group-title="Canales 24-7 ",24-7 CARTOON NERDWORK
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/391.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 CHAPULIN COLORADO" tvg-logo="http://i.imgur.com/WwH0hnW.png" group-title="Canales 24-7 ",24-7 CHAPULIN COLORADO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/363.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 CUARENTA Y VEINTE " tvg-logo="http://i.imgur.com/gtLgprT.png" group-title="Canales 24-7 ",24-7 CUARENTA Y VEINTE 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/420.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 DR HOUSE" tvg-logo="http://i.imgur.com/dKCIHNu.png" group-title="Canales 24-7 ",24-7 DR HOUSE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/466.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 DRAGON BALL SUPER" tvg-logo="http://i.imgur.com/miwQwSJ.png" group-title="Canales 24-7 ",24-7 DRAGON BALL SUPER
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/465.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 EL CHAVO DEL OCHO" tvg-logo="http://i.imgur.com/Rf5ivZA.png" group-title="Canales 24-7 ",24-7 EL CHAVO DEL OCHO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/467.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 EL MENTALISTA" tvg-logo="http://i.imgur.com/e1Wh1tQ.png" group-title="Canales 24-7 ",24-7 EL MENTALISTA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/468.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 FAMILIA PELUCHE Y VECINOS" tvg-logo="http://i.imgur.com/MZ2kNb6.png" group-title="Canales 24-7 ",24-7 FAMILIA PELUCHE Y VECINOS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/421.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 FUTURAMA" tvg-logo="http://i.imgur.com/N5s8s5U.png" group-title="Canales 24-7 ",24-7 FUTURAMA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/265.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 GOOD DOCTOR" tvg-logo="https://i.imgur.com/iBPofpd.png" group-title="Canales 24-7 ",24-7 GOOD DOCTOR
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/414.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 HORA DE LA AVENTURA " tvg-logo="http://i.imgur.com/5LKtKaP.png" group-title="Canales 24-7 ",24-7 HORA DE LA AVENTURA 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4318.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 HORROR MOVIES 1" tvg-logo="https://i.imgur.com/koQJb1q.png" group-title="Canales 24-7 ",24-7 HORROR MOVIES 1
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/417.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 HORROR MOVIES 2" tvg-logo="http://i.imgur.com/koQJb1q.png" group-title="Canales 24-7 ",24-7 HORROR MOVIES 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/416.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 JUEGO DE TRONOS" tvg-logo="http://i.imgur.com/sQoNBn2.png" group-title="Canales 24-7 ",24-7 JUEGO DE TRONOS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/469.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 KENAN Y KEL VS DRAKE Y JOSH" tvg-logo="https://i.imgur.com/xU85hO5.png" group-title="Canales 24-7 ",24-7 KENAN Y KEL VS DRAKE Y JOSH
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4773.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 KIDS MOVIES" tvg-logo="https://i.imgur.com/CnbaErF.png" group-title="Canales 24-7 ",24-7 KIDS MOVIES
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/418.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 LA LEY Y EL ORDEN 2" tvg-logo="https://i.imgur.com/13N7FWl.png" group-title="Canales 24-7 ",24-7 LA LEY Y EL ORDEN 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/415.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 LA LEY Y EL ORDEN UVE " tvg-logo="https://i.imgur.com/13N7FWl.png" group-title="Canales 24-7 ",24-7 LA LEY Y EL ORDEN UVE 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/395.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 LA TEORIA DEL BING BANG" tvg-logo="http://i.imgur.com/jOehWSq.png" group-title="Canales 24-7 ",24-7 LA TEORIA DEL BING BANG
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/470.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 LAS TORTUGAS NINJA " tvg-logo="http://i.imgur.com/ge6HJPf.png" group-title="Canales 24-7 ",24-7 LAS TORTUGAS NINJA 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/436.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 LOONEY TUNES " tvg-logo="http://i.imgur.com/O3qbZlF.png" group-title="Canales 24-7 ",24-7 LOONEY TUNES 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/220.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 LOS SIMPSON" tvg-logo="http://i.imgur.com/d3jtQZQ.png" group-title="Canales 24-7 ",24-7 LOS SIMPSON
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/471.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 LOS SIMPSON ESPECIAL DE TERROR" tvg-logo="http://i.imgur.com/d3jtQZQ.png" group-title="Canales 24-7 ",24-7 LOS SIMPSON ESPECIAL DE TERROR
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5720.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 MALCOM EL DEL MEDIO " tvg-logo="http://i.imgur.com/Mmuv0Bf.png" group-title="Canales 24-7 ",24-7 MALCOM EL DEL MEDIO 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/472.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 MARVEL CINEMATIC UNIVERSE" tvg-logo="http://i.imgur.com/7tVxylF.png" group-title="Canales 24-7 ",24-7 MARVEL CINEMATIC UNIVERSE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/438.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 MASHA Y EL OSO" tvg-logo="http://i.imgur.com/Pynbpcs.png" group-title="Canales 24-7 ",24-7 MASHA Y EL OSO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4433.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 MENTES CRIMINALES 1" tvg-logo="https://urtanta.com/wp-content/uploads/2018/05/Mentes-Criminales-653x393.jpg" group-title="Canales 24-7 ",24-7 MENTES CRIMINALES 1
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4627.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 MENTES CRIMINALES 2" tvg-logo="https://urtanta.com/wp-content/uploads/2018/05/Mentes-Criminales-653x393.jpg" group-title="Canales 24-7 ",24-7 MENTES CRIMINALES 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4628.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 MINIFORCE" tvg-logo="https://i.imgur.com/4FbV0eM.png" group-title="Canales 24-7 ",24-7 MINIFORCE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4772.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 MOVIES ESTRENOS " tvg-logo="http://i.imgur.com/ktZvDOd.png" group-title="Canales 24-7 ",24-7 MOVIES ESTRENOS 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/419.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 NARUTO" tvg-logo="http://i.imgur.com/0LK9z5O.png" group-title="Canales 24-7 ",24-7 NARUTO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/357.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 NARUTO SHIPPUDEN" tvg-logo="http://i.imgur.com/0LK9z5O.png" group-title="Canales 24-7 ",24-7 NARUTO SHIPPUDEN
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/351.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 NAVIDAD " tvg-logo="https://canalhistoria.es/wp-content/uploads/2017/12/ARBOL-BLOG.jpg" group-title="Canales 24-7 ",24-7 NAVIDAD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5792.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 PADRE DE FAMILIA" tvg-logo="http://i.imgur.com/D4QbMqn.png" group-title="Canales 24-7 ",24-7 PADRE DE FAMILIA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/473.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 PEPPA PIG " tvg-logo="https://i.imgur.com/RPw7Viv.png" group-title="Canales 24-7 ",24-7 PEPPA PIG 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4740.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 PJ MASK" tvg-logo="https://i.imgur.com/w5lM5Aq.png" group-title="Canales 24-7 ",24-7 PJ MASK
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4735.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 POCOYO" tvg-logo="https://i.imgur.com/eQJymbt.jpg" group-title="Canales 24-7 ",24-7 POCOYO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4739.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 RANMA" tvg-logo="https://i.imgur.com/Zjss2EN.png" group-title="Canales 24-7 ",24-7 RANMA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/392.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 SAILOR MOON" tvg-logo="http://i.imgur.com/pQ78pJF.png" group-title="Canales 24-7 ",24-7 SAILOR MOON
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/267.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 SAKURA CARD CAPTOR" tvg-logo="https://i.imgur.com/lBnsoGW.png" group-title="Canales 24-7 ",24-7 SAKURA CARD CAPTOR
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4588.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 SOUTH PARK" tvg-logo="https://i.imgur.com/GXVbtOX.png" group-title="Canales 24-7 ",24-7 SOUTH PARK
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4741.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 SPIDERMAN" tvg-logo="https://i.imgur.com/mg5AJVG.png" group-title="Canales 24-7 ",24-7 SPIDERMAN
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4736.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 TEEN TITANS GO" tvg-logo="https://i.imgur.com/LDYHesV.png" group-title="Canales 24-7 ",24-7 TEEN TITANS GO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4770.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 THE FLASH" tvg-logo="http://i.imgur.com/nLQgdzc.png" group-title="Canales 24-7 ",24-7 THE FLASH
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/474.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 THE WALKING DEAD " tvg-logo="https://i.imgur.com/VthJ8gs.png" group-title="Canales 24-7 ",24-7 THE WALKING DEAD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4343.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 TWO AND THE HALF MAN" tvg-logo="http://www.radioacktiva.com/wp-content/uploads/2015/07/2432720.jpg" group-title="Canales 24-7 ",24-7 TWO AND THE HALF MAN
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/413.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 UN SHOW MAS" tvg-logo="http://i.imgur.com/bCm7IfE.png" group-title="Canales 24-7 ",24-7 UN SHOW MAS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/475.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="24-7 X-MEN UNIVERSO CINEMATOGRAFICO" tvg-logo="http://i.imgur.com/2DouPvx.png" group-title="Canales 24-7 ",24-7 X-MEN UNIVERSO CINEMATOGRAFICO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4749.ts
 
-
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="BOING" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",BOING
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5862.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://i.imgur.com/7Pk9akZ.png" group-title=".Infantil",BOOMERANG
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/70.ts
-
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="BOOMERANG SD" tvg-logo="http://i.imgur.com/7Pk9akZ.png" group-title=".Infantil",BOOMERANG SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4486.ts
-
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="COPS " tvg-logo="https://i.imgur.com/tbpdfYK.png" group-title=".Entretenimiento",COPS 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4745.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="CRIMEN INVESTIGACION" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",CRIMEN INVESTIGACION
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5863.ts
-#EXTINF:-1 type="stream" tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://i.imgur.com/0q4Mty9.png" group-title=".Cine",DE PELICULA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/127.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DE PELICULA HD " tvg-logo="http://i.imgur.com/0q4Mty9.png" group-title=".Cine",DE PELICULA HD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5694.ts
-#EXTINF:-1 type="stream" tvg-id="DePeliculaHD.mx" tvg-name="DE PELICULA PLUS" tvg-logo="http://i.imgur.com/0q4Mty9.png" group-title=".Cine",DE PELICULA PLUS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/76.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DE PELICULA PLUS HD " tvg-logo="http://i.imgur.com/0q4Mty9.png" group-title=".Cine",DE PELICULA PLUS HD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5695.ts
-
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DIRECTV SPORT PLUS ECUADOR" tvg-logo="https://i.imgur.com/CHC29GI.png" group-title=".Deportes",DIRECTV SPORT PLUS ECUADOR
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5881.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/HF3s7kQ.png" group-title=".Cultura",DISCOVERY CHANNEL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/17.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY CHANNEL ESPANOL" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",DISCOVERY CHANNEL ESPANOL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5865.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://i.imgur.com/HF3s7kQ.png" group-title=".Cultura",DISCOVERY CHANNEL FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/152.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://i.imgur.com/HF3s7kQ.png" group-title=".Cultura",DISCOVERY CHANNEL SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4449.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://i.imgur.com/BrPrw4i.png" group-title=".Cultura",DISCOVERY CIVILIZATION
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/71.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY ESPANOL" tvg-logo="http://i.imgur.com/HF3s7kQ.png" group-title=".Cultura",DISCOVERY ESPANOL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/270.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.imgur.com/HF3s7kQ.png" group-title=".Cultura",DISCOVERY FAMILIA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/253.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HYH" tvg-logo="http://i.imgur.com/BB0xhHJ.png" group-title=".Cultura",DISCOVERY HYH
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/18.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HYH  FHD" tvg-logo="http://i.imgur.com/BB0xhHJ.png" group-title=".Cultura",DISCOVERY HYH  FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/166.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HYH SD" tvg-logo="http://i.imgur.com/BB0xhHJ.png" group-title=".Cultura",DISCOVERY HYH SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/386.ts
-#EXTINF:-1 type="stream" tvg-id="InvestigationDiscovery.mx" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="http://i.imgur.com/j9uT6i8.png" group-title=".Cultura",DISCOVERY INVESTIGATION
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/40.ts
-#EXTINF:-1 type="stream" tvg-id="InvestigationDiscovery.mx" tvg-name="DISCOVERY INVESTIGATION FHD" tvg-logo="http://i.imgur.com/j9uT6i8.png" group-title=".Cultura",DISCOVERY INVESTIGATION FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/173.ts
-#EXTINF:-1 type="stream" tvg-id="InvestigationDiscovery.mx" tvg-name="DISCOVERY INVESTIGATION SD" tvg-logo="http://i.imgur.com/j9uT6i8.png" group-title=".Cultura",DISCOVERY INVESTIGATION SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/384.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/tpOp737.png" group-title=".Infantil",DISCOVERY KIDS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/75.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://i.imgur.com/tpOp737.png" group-title=".Infantil",DISCOVERY KIDS FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/181.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://i.imgur.com/tpOp737.png" group-title=".Infantil",DISCOVERY KIDS SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4451.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/4tkw6vB.png" group-title=".Cultura",DISCOVERY SCIENCE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/77.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/KrZsrM4.png" group-title=".Cultura",DISCOVERY THEATER
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/20.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY THEATER FHD " tvg-logo="http://i.imgur.com/KrZsrM4.png" group-title=".Cultura",DISCOVERY THEATER FHD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4432.ts
-#EXTINF:-1 type="stream" tvg-id="TLC.mx" tvg-name="DISCOVERY TLC" tvg-logo="http://i.imgur.com/GJzYdLP.png" group-title=".Cultura",DISCOVERY TLC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/21.ts
-#EXTINF:-1 type="stream" tvg-id="TLC.mx" tvg-name="DISCOVERY TLC FHD" tvg-logo="http://i.imgur.com/GJzYdLP.png" group-title=".Cultura",DISCOVERY TLC FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/176.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY TLC SD" tvg-logo="http://i.imgur.com/GJzYdLP.png" group-title=".Cultura",DISCOVERY TLC SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4482.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/Sl54Yvx.png" group-title=".Cultura",DISCOVERY TURBO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/22.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://i.imgur.com/Sl54Yvx.png" group-title=".Cultura",DISCOVERY TURBO FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/180.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/Sl54Yvx.png" group-title=".Cultura",DISCOVERY TURBO HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5849.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://i.imgur.com/Sl54Yvx.png" group-title=".Cultura",DISCOVERY TURBO SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4483.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/sVnmroG.png" group-title=".Cultura",DISCOVERY WORLD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/23.ts
-#EXTINF:-1 type="stream" tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://i.imgur.com/sVnmroG.png" group-title=".Cultura",DISCOVERY WORLD FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/182.ts
-#EXTINF:-1 type="stream" tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/NCVsk3O.png" group-title=".Infantil",DISNEY CHANNEL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/73.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISNEY CHANNEL ESPANA" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",DISNEY CHANNEL ESPANA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5866.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISNEY CHANNEL HD " tvg-logo="http://i.imgur.com/NCVsk3O.png" group-title=".Infantil",DISNEY CHANNEL HD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5087.ts
-#EXTINF:-1 type="stream" tvg-id="DisneyJunior.mx" tvg-name="DISNEY JUNIOR" tvg-logo="http://i.imgur.com/23G0tcr.png" group-title=".Infantil",DISNEY JUNIOR
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/72.ts
-#EXTINF:-1 type="stream" tvg-id="SundanceTV.mx" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://i.imgur.com/23G0tcr.png" group-title=".Infantil",DISNEY JUNIOR HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/110.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISNEY SD " tvg-logo="http://i.imgur.com/NCVsk3O.png" group-title=".Infantil",DISNEY SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4455.ts
-#EXTINF:-1 type="stream" tvg-id="DisneyXD.mx" tvg-name="DISNEY XD" tvg-logo="http://i.imgur.com/F9WjLBG.png" group-title=".Infantil",DISNEY XD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/19.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISNEY XD HD " tvg-logo="http://i.imgur.com/F9WjLBG.png" group-title=".Infantil",DISNEY XD HD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5088.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISNEY XD SD" tvg-logo="http://i.imgur.com/F9WjLBG.png" group-title=".Infantil",DISNEY XD SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4457.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="http://i.imgur.com/s8jM5O1.png" group-title=".Entretenimiento",DISTRITO COMEDIA
-
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESP MOVISTAR ACCION" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",ESP MOVISTAR ACCION
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/316.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESP MOVISTAR CINE N" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",ESP MOVISTAR CINE N
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/314.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESP MOVISTAR COMEDIA" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",ESP MOVISTAR COMEDIA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/315.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESP MOVISTAR ESTRENOS" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",ESP MOVISTAR ESTRENOS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/311.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESP MOVISTAR SERIE MANIA" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",ESP MOVISTAR SERIE MANIA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/309.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESP MOVISTAR SERIES" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",ESP MOVISTAR SERIES
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/330.ts
-
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESTRELLA TV OPC 2" tvg-logo="https://i.imgur.com/VEwVRzf.png" group-title="Canales Latinos de USA",ESTRELLA TV OPC 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4860.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="http://i.imgur.com/1LCt3Ss.png" group-title=".Cine",EUROPA EUROPA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/123.ts
-#EXTINF:-1 type="stream" tvg-id="Eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="http://i.imgur.com/40NzFIk.png" group-title=".Deportes",EUROSPORT 1
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/334.ts
-#EXTINF:-1 type="stream" tvg-id="Eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="http://i.imgur.com/40NzFIk.png" group-title=".Deportes",EUROSPORT 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/335.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="EWTN" tvg-logo="https://i.imgur.com/ArlPQsc.png" group-title="Canales Religiosos",EWTN
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5247.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="EXCELSIOR TV" tvg-logo="http://i.imgur.com/u4QEirQ.png" group-title=".Noticias",EXCELSIOR TV
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/128.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="F1 TV (SOLO EVENTO)" tvg-logo="http://i.imgur.com/nk1L9tK.png" group-title="Pago por evento (PPV)",F1 TV (SOLO EVENTO)
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5237.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FAIL ARMY" tvg-logo="https://i.imgur.com/432Ei7s.png" group-title=".Entretenimiento",FAIL ARMY
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4746.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FDF" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",FDF
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5868.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FILMANDARTS" tvg-logo="http://i.imgur.com/gYYsvQH.png" group-title=".Cine",FILMANDARTS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/124.ts
-#EXTINF:-1 type="stream" tvg-id="FoodNetwork.pa" tvg-name="FOOD NETWORK" tvg-logo="http://i.imgur.com/FS75rOO.png" group-title=".Cultura",FOOD NETWORK
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/108.ts
-#EXTINF:-1 type="stream" tvg-id="ForoTv.mx" tvg-name="FOROTV" tvg-logo="http://i.imgur.com/DDJ1fEG.png" group-title=".Noticias",FOROTV
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/428.ts
-#EXTINF:-1 type="stream" tvg-id="Fox.mx" tvg-name="FOX CHANNEL" tvg-logo="https://i.imgur.com/weTCaV3.png" group-title=".Entretenimiento",FOX CHANNEL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/31.ts
-#EXTINF:-1 type="stream" tvg-id="Fox.mx" tvg-name="FOX CHANNEL FHD" tvg-logo="https://i.imgur.com/weTCaV3.png" group-title=".Entretenimiento",FOX CHANNEL FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/167.ts
-#EXTINF:-1 type="stream" tvg-id="Fox.mx" tvg-name="FOX CHANNEL SD" tvg-logo="https://i.imgur.com/weTCaV3.png" group-title=".Entretenimiento",FOX CHANNEL SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/372.ts
-#EXTINF:-1 type="stream" tvg-id="FoxDeportes.us" tvg-name="FOX DEPORTES" tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX DEPORTES
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/199.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX ESPANA" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="Canales de Europa",FOX ESPANA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5869.ts
-#EXTINF:-1 type="stream" tvg-id="FoxLife.mx" tvg-name="FOX LIFE " tvg-logo="https://i.imgur.com/zMQTqJS.png" group-title=".Entretenimiento",FOX LIFE 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/30.ts
-#EXTINF:-1 type="stream" tvg-id="FoxLife.mx" tvg-name="FOX LIFE  FHD" tvg-logo="https://i.imgur.com/zMQTqJS.png" group-title=".Entretenimiento",FOX LIFE  FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/149.ts
-#EXTINF:-1 type="stream" tvg-id="FoxLife.mx" tvg-name="FOX LIFE SD " tvg-logo="https://i.imgur.com/zMQTqJS.png" group-title=".Entretenimiento",FOX LIFE SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4485.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX NEWS" tvg-logo="http://i.imgur.com/dKHIt5E.png" group-title=".Noticias",FOX NEWS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/125.ts
-#EXTINF:-1 type="stream" tvg-id="FoxActionOeste.mx" tvg-name="FOX PREMIUM ACTION" tvg-logo="https://i.imgur.com/IlKogMO.png" group-title="Canales Premium",FOX PREMIUM ACTION
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/29.ts
-#EXTINF:-1 type="stream" tvg-id="FoxActionOeste.mx" tvg-name="FOX PREMIUM ACTION  FHD" tvg-logo="https://i.imgur.com/IlKogMO.png" group-title="Canales Premium",FOX PREMIUM ACTION  FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/177.ts
-#EXTINF:-1 type="stream" tvg-id="FoxActionOeste.mx" tvg-name="FOX PREMIUM ACTION SD" tvg-logo="https://i.imgur.com/IlKogMO.png" group-title="Canales Premium",FOX PREMIUM ACTION SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/373.ts
-#EXTINF:-1 type="stream" tvg-id="FoxCinema.mx" tvg-name="FOX PREMIUM CINEMA" tvg-logo="https://i.imgur.com/UqZkKKf.png" group-title="Canales Premium",FOX PREMIUM CINEMA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/80.ts
-#EXTINF:-1 type="stream" tvg-id="FoxClassics.mx" tvg-name="FOX PREMIUM CLASSIC" tvg-logo="https://i.imgur.com/oZtUcwA.png" group-title="Canales Premium",FOX PREMIUM CLASSIC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/81.ts
-#EXTINF:-1 type="stream" tvg-id="FoxClassics.mx" tvg-name="FOX PREMIUM CLASSIC SD " tvg-logo="https://i.imgur.com/oZtUcwA.png" group-title="Canales Premium",FOX PREMIUM CLASSIC SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4378.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX PREMIUM COMEDY " tvg-logo="https://i.imgur.com/uYnGCUW.png" group-title="Canales Premium",FOX PREMIUM COMEDY 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5274.ts
-#EXTINF:-1 type="stream" tvg-id="FoxComedy.mx" tvg-name="FOX PREMIUM COMEDY HD" tvg-logo="https://i.imgur.com/uYnGCUW.png" group-title="Canales Premium",FOX PREMIUM COMEDY HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/389.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX PREMIUM FAMILY " tvg-logo="https://i.imgur.com/qOfzwNj.png" group-title="Canales Premium",FOX PREMIUM FAMILY 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5275.ts
-#EXTINF:-1 type="stream" tvg-id="FoxFamilyOeste.mx" tvg-name="FOX PREMIUM FAMILY HD" tvg-logo="https://i.imgur.com/qOfzwNj.png" group-title="Canales Premium",FOX PREMIUM FAMILY HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/390.ts
-#EXTINF:-1 type="stream" tvg-id="FoxFamilyEste.mx" tvg-name="FOX PREMIUM FAMILY SD" tvg-logo="https://i.imgur.com/qOfzwNj.png" group-title="Canales Premium",FOX PREMIUM FAMILY SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4379.ts
-#EXTINF:-1 type="stream" tvg-id="FoxMovies.mx" tvg-name="FOX PREMIUM MOVIES " tvg-logo="https://i.imgur.com/LkbYNuI.png" group-title="Canales Premium",FOX PREMIUM MOVIES 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/32.ts
-#EXTINF:-1 type="stream" tvg-id="FoxMovies.mx" tvg-name="FOX PREMIUM MOVIES FHD" tvg-logo="https://i.imgur.com/LkbYNuI.png" group-title="Canales Premium",FOX PREMIUM MOVIES FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/179.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX PREMIUM MOVIES HD" tvg-logo="https://i.imgur.com/LkbYNuI.png" group-title="Canales Premium",FOX PREMIUM MOVIES HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5843.ts
-#EXTINF:-1 type="stream" tvg-id="FoxMovies.mx" tvg-name="FOX PREMIUM MOVIES SD" tvg-logo="https://i.imgur.com/LkbYNuI.png" group-title="Canales Premium",FOX PREMIUM MOVIES SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/374.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSeries.mx" tvg-name="FOX PREMIUM SERIES" tvg-logo="https://i.imgur.com/WP5HYgY.png" group-title="Canales Premium",FOX PREMIUM SERIES
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/28.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSeries.mx" tvg-name="FOX PREMIUM SERIES FHD LAT" tvg-logo="https://i.imgur.com/WP5HYgY.png" group-title="Canales Premium",FOX PREMIUM SERIES FHD LAT
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/178.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSeries.mx" tvg-name="FOX PREMIUM SERIES SD " tvg-logo="https://i.imgur.com/WP5HYgY.png" group-title="Canales Premium",FOX PREMIUM SERIES SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/375.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX SPORT 2 MEX SD" tvg-logo="http://i.imgur.com/VWKGu9a.png" group-title=".Deportes",FOX SPORT 2 MEX SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4445.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX SPORT 3 MEX SD" tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORT 3 MEX SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4446.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX SPORT 3 MX HD" tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORT 3 MX HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4774.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX SPORT MEX SD" tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORT MEX SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4444.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX SPORT PREMIUM " tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORT PREMIUM 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4822.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports.mx" tvg-name="FOX SPORTS 1 MEX" tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORTS 1 MEX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/34.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports.mx" tvg-name="FOX SPORTS 1 MEX HD" tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORTS 1 MEX HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/196.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1 USA" tvg-logo="http://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORTS 1 USA
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/228.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 MEX" tvg-logo="http://i.imgur.com/VWKGu9a.png" group-title=".Deportes",FOX SPORTS 2 MEX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/35.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 MEX HD" tvg-logo="http://i.imgur.com/VWKGu9a.png" group-title=".Deportes",FOX SPORTS 2 MEX HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/193.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 MEX" tvg-logo="https://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORTS 3 MEX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/56.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports.ar" tvg-name="FOX SPORTS ARG 1" tvg-logo="https://i.imgur.com/B4scQYD.png" group-title=".Deportes",FOX SPORTS ARG 1
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/200.ts
-#EXTINF:-1 type="stream" tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS ARG 2" tvg-logo="http://i.imgur.com/VWKGu9a.png" group-title=".Deportes",FOX SPORTS ARG 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/201.ts
-
-#EXTINF:-1 type="stream" tvg-id="FX.mx" tvg-name="FX CHANNEL" tvg-logo="https://i.imgur.com/x6ojLTS.png" group-title=".Entretenimiento",FX CHANNEL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/33.ts
-#EXTINF:-1 type="stream" tvg-id="FX.mx" tvg-name="FX CHANNEL FHD" tvg-logo="https://i.imgur.com/x6ojLTS.png" group-title=".Entretenimiento",FX CHANNEL FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/139.ts
-#EXTINF:-1 type="stream" tvg-id="FX.mx" tvg-name="FX CHANNEL SD" tvg-logo="https://i.imgur.com/x6ojLTS.png" group-title=".Entretenimiento",FX CHANNEL SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/376.ts
-#EXTINF:-1 type="stream" tvg-id="FXMovies.mx" tvg-name="FXM  CHANNEL SD" tvg-logo="https://i.imgur.com/9Rjdird.png" group-title=".Cine",FXM  CHANNEL SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/377.ts
-#EXTINF:-1 type="stream" tvg-id="FXMovies.mx" tvg-name="FXM CHANNEL FHD" tvg-logo="https://i.imgur.com/9Rjdird.png" group-title=".Cine",FXM CHANNEL FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/140.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="GALAVISION" tvg-logo="https://i.imgur.com/KDUJ8Jx.png" group-title="Canales Latinos de USA",GALAVISION
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/214.ts
-
-#EXTINF:-1 type="stream" tvg-id="HBO.co" tvg-name="HBO 1 FHD" tvg-logo="https://i.imgur.com/IFp8QYO.png" group-title="Canales Premium",HBO 1 FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/279.ts
-#EXTINF:-1 type="stream" tvg-id="HBOOeste.mx" tvg-name="HBO 1 MEX" tvg-logo="https://i.imgur.com/IFp8QYO.png" group-title="Canales Premium",HBO 1 MEX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5204.ts
-#EXTINF:-1 type="stream" tvg-id="HBO.co" tvg-name="HBO 1 OPC 2" tvg-logo="https://i.imgur.com/IFp8QYO.png" group-title="Canales Premium",HBO 1 OPC 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4986.ts
-#EXTINF:-1 type="stream" tvg-id="HBOOeste.mx" tvg-name="HBO 1 SD" tvg-logo="https://i.imgur.com/IFp8QYO.png" group-title="Canales Premium",HBO 1 SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/367.ts
-#EXTINF:-1 type="stream" tvg-id="HBO2.mx" tvg-name="HBO 2 MEX" tvg-logo="https://i.imgur.com/shFKZap.png" group-title="Canales Premium",HBO 2 MEX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5205.ts
-#EXTINF:-1 type="stream" tvg-id="HBO2.co" tvg-name="HBO 2 OPC 2" tvg-logo="https://i.imgur.com/shFKZap.png" group-title="Canales Premium",HBO 2 OPC 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4985.ts
-#EXTINF:-1 type="stream" tvg-id="HBO2.mx" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/shFKZap.png" group-title="Canales Premium",HBO 2 SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/369.ts
-#EXTINF:-1 type="stream" tvg-id="HBOFamily.co" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/VualHU9.png" group-title="Canales Premium",HBO FAMILY
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/282.ts
-#EXTINF:-1 type="stream" tvg-id="HBOFamily.co" tvg-name="HBO FAMILY OPC 2" tvg-logo="https://i.imgur.com/VualHU9.png" group-title="Canales Premium",HBO FAMILY OPC 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4988.ts
-#EXTINF:-1 type="stream" tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/VualHU9.png" group-title="Canales Premium",HBO FAMILY SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/370.ts
-#EXTINF:-1 type="stream" tvg-id="HBOMundi.co" tvg-name="HBO MUNDI" tvg-logo="http://i.imgur.com/zRqbbB6.png" group-title="Canales Premium",HBO MUNDI
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/286.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/zRqbbB6.png" group-title="Canales Premium",HBO MUNDI HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5846.ts
-#EXTINF:-1 type="stream" tvg-id="HBOPlus.mx" tvg-name="HBO PLUS MEX" tvg-logo="https://i.imgur.com/qQBVEzW.png" group-title="Canales Premium",HBO PLUS MEX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5206.ts
-#EXTINF:-1 type="stream" tvg-id="HBOPlus.co" tvg-name="HBO PLUS OPC 2" tvg-logo="https://i.imgur.com/qQBVEzW.png" group-title="Canales Premium",HBO PLUS OPC 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4987.ts
-#EXTINF:-1 type="stream" tvg-id="HBOPlus.mx" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/qQBVEzW.png" group-title="Canales Premium",HBO PLUS SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/368.ts
-#EXTINF:-1 type="stream" tvg-id="HBOPop.co" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/86zUPyQ.png" group-title="Canales Premium",HBO POP
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5079.ts
-#EXTINF:-1 type="stream" tvg-id="HBOPop.co" tvg-name="HBO POP OPC 2" tvg-logo="https://i.imgur.com/86zUPyQ.png" group-title="Canales Premium",HBO POP OPC 2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5165.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/HLvCpmU.png" group-title="Canales Premium",HBO SIGNATURE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5844.ts
-#EXTINF:-1 type="stream" tvg-id="HBOSignatureLatam.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/HLvCpmU.png" group-title="Canales Premium",HBO SIGNATURE HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/283.ts
-#EXTINF:-1 type="stream" tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://i.imgur.com/bgjZ6HW.png" group-title="Canales Premium",HBO XTREME
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5069.ts
-#EXTINF:-1 type="stream" tvg-id="HBOXtreme.co" tvg-name="HBO XTREME OPC2" tvg-logo="http://i.imgur.com/bgjZ6HW.png" group-title="Canales Premium",HBO XTREME OPC2
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5164.ts
-#EXTINF:-1 type="stream" tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME SD" tvg-logo="http://i.imgur.com/bgjZ6HW.png" group-title="Canales Premium",HBO XTREME SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/371.ts
-#EXTINF:-1 type="stream" tvg-id="History.mx" tvg-name="HISTORY" tvg-logo="http://i.imgur.com/QR8eG80.png" group-title=".Cultura",HISTORY
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/39.ts
-#EXTINF:-1 type="stream" tvg-id="History2.mx" tvg-name="HISTORY 2 SD " tvg-logo="https://i.imgur.com/QR8eG80.png" group-title=".Cultura",HISTORY 2 SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4377.ts
-#EXTINF:-1 type="stream" tvg-id="History.mx" tvg-name="HISTORY FHD" tvg-logo="http://i.imgur.com/QR8eG80.png" group-title=".Cultura",HISTORY FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/142.ts
-#EXTINF:-1 type="stream" tvg-id="History.mx" tvg-name="HISTORY SD " tvg-logo="https://i.imgur.com/QR8eG80.png" group-title=".Cultura",HISTORY SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4452.ts
-#EXTINF:-1 type="stream" tvg-id="HolaTV.mx" tvg-name="HOLA TV" tvg-logo="https://i.imgur.com/gXMXHu6.png" group-title=".Entretenimiento",HOLA TV
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4984.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="HTV FHD" tvg-logo="https://i.imgur.com/b8SlFU8.png" group-title=".Musica",HTV FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4775.ts
-
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="MY9" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",MY9
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5411.ts
-#EXTINF:-1 type="stream" tvg-id="NatGeo.mx" tvg-name="NAT GEO" tvg-logo="http://i.imgur.com/vllomEI.png" group-title=".Cultura",NAT GEO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/44.ts
-#EXTINF:-1 type="stream" tvg-id="NatGeo.mx" tvg-name="NAT GEO FHD" tvg-logo="http://i.imgur.com/vllomEI.png" group-title=".Cultura",NAT GEO FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/168.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="NAT GEO SD " tvg-logo="http://i.imgur.com/vllomEI.png" group-title=".Cultura",NAT GEO SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4481.ts
-#EXTINF:-1 type="stream" tvg-id="NatGeoWild.mx" tvg-name="NAT GEO WILD" tvg-logo="http://i.imgur.com/vllomEI.png" group-title=".Cultura",NAT GEO WILD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/87.ts
-#EXTINF:-1 type="stream" tvg-id="NatGeoWild.mx" tvg-name="NAT GEO WILD  FHD" tvg-logo="http://i.imgur.com/vllomEI.png" group-title=".Cultura",NAT GEO WILD  FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/169.ts
-#EXTINF:-1 type="stream" tvg-id="NatGeoKids.mx" tvg-name="NATGEO KIDS" tvg-logo="http://i.imgur.com/Jk188WW.png" group-title=".Infantil",NATGEO KIDS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/118.ts
-#EXTINF:-1 type="stream" tvg-id="NatGeo.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://i.imgur.com/vllomEI.png" group-title=".Cultura",NATIONAL GEOGRAPHIC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/337.ts
-
-#EXTINF:-1 type="stream" tvg-id="Nickelodeon.mx" tvg-name="NICK" tvg-logo="http://i.imgur.com/kcU909c.png" group-title=".Infantil",NICK
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/45.ts
-#EXTINF:-1 type="stream" tvg-id="Nick2.mx" tvg-name="NICK 2 FHD" tvg-logo="http://i.imgur.com/AtVHJUf.png" group-title=".Infantil",NICK 2 FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/171.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="NICK CLASICO" tvg-logo="http://i.imgur.com/kcU909c.png" group-title=".Infantil",NICK CLASICO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/241.ts
-#EXTINF:-1 type="stream" tvg-id="Nickelodeon.mx" tvg-name="NICK FHD" tvg-logo="http://i.imgur.com/kcU909c.png" group-title=".Infantil",NICK FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/170.ts
-#EXTINF:-1 type="stream" tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="http://i.imgur.com/qzG0ODR.png" group-title=".Infantil",NICK JR
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/88.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="NICK JR CLUB" tvg-logo="http://i.imgur.com/kcU909c.png" group-title=".Infantil",NICK JR CLUB
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/345.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="NICK JR HD " tvg-logo="https://i.imgur.com/qzG0ODR.png" group-title=".Infantil",NICK JR HD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4776.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="NICK LATINO " tvg-logo="http://i.imgur.com/kcU909c.png" group-title=".Infantil",NICK LATINO 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/236.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="NICK SD" tvg-logo="http://i.imgur.com/kcU909c.png" group-title=".Infantil",NICK SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5714.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="NICK TOONS" tvg-logo="http://i.imgur.com/GQBiQN9.png" group-title=".Infantil",NICK TOONS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/89.ts
-#EXTINF:-1 type="stream" tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY" tvg-logo="http://i.imgur.com/mTgAfEP.png" group-title=".Entretenimiento",SONY
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/93.ts
-#EXTINF:-1 type="stream" tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY FHD" tvg-logo="http://i.imgur.com/mTgAfEP.png" group-title=".Entretenimiento",SONY FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/143.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="SONY SD" tvg-logo="http://i.imgur.com/mTgAfEP.png" group-title=".Cine",SONY SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4479.ts
-#EXTINF:-1 type="stream" tvg-id="Space.mx" tvg-name="SPACE" tvg-logo="http://i.imgur.com/fpT4cTh.png" group-title=".Cine",SPACE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/47.ts
-#EXTINF:-1 type="stream" tvg-id="Space.mx" tvg-name="SPACE FHD" tvg-logo="http://i.imgur.com/fpT4cTh.png" group-title=".Cine",SPACE FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/144.ts
-#EXTINF:-1 type="stream" tvg-id="Space.mx" tvg-name="SPACE SD" tvg-logo="http://i.imgur.com/fpT4cTh.png" group-title=".Cine",SPACE SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/380.ts
-
-#EXTINF:-1 type="stream" tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://i.imgur.com/b4TTI1d.png" group-title=".Cine",STUDIO UNIVERSAL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/101.ts
-#EXTINF:-1 type="stream" tvg-id="Space.mx" tvg-name="STUDIO UNIVERSAL  FHD" tvg-logo="http://i.imgur.com/b4TTI1d.png" group-title=".Cine",STUDIO UNIVERSAL  FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/154.ts
-#EXTINF:-1 type="stream" tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://i.imgur.com/b4TTI1d.png" group-title=".Cine",STUDIO UNIVERSAL SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/441.ts
-
-#EXTINF:-1 type="stream" tvg-id="TeleNovelas.mx" tvg-name="TL NOVELAS" tvg-logo="http://i.imgur.com/fTlWdd2.png" group-title=".Entretenimiento",TL NOVELAS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/90.ts
-#EXTINF:-1 type="stream" tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://i.imgur.com/ooqffuu.png" group-title=".Cine",TNT
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/50.ts
-#EXTINF:-1 type="stream" tvg-id="TNT.mx" tvg-name="TNT FHD" tvg-logo="http://i.imgur.com/ooqffuu.png" group-title=".Cine",TNT FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/145.ts
-#EXTINF:-1 type="stream" tvg-id="TNT.mx" tvg-name="TNT SD" tvg-logo="http://i.imgur.com/ooqffuu.png" group-title=".Cine",TNT SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4453.ts
-#EXTINF:-1 type="stream" tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="http://i.imgur.com/UHiSnpQ.png" group-title=".Entretenimiento",TNT SERIES
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/51.ts
-#EXTINF:-1 type="stream" tvg-id="TNTSeries.mx" tvg-name="TNT SERIES FHD" tvg-logo="http://i.imgur.com/UHiSnpQ.png" group-title=".Entretenimiento",TNT SERIES FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/146.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/UHiSnpQ.png" group-title=".Entretenimiento",TNT SERIES HD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5847.ts
-#EXTINF:-1 type="stream" tvg-id="TNTSeries.mx" tvg-name="TNT SERIES SD" tvg-logo="http://i.imgur.com/UHiSnpQ.png" group-title=".Entretenimiento",TNT SERIES SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4443.ts
-
-#EXTINF:-1 type="stream" tvg-id="TYCSports.ar" tvg-name="TYC SPORT" tvg-logo="http://i.imgur.com/uVLNB7a.png" group-title=".Deportes",TYC SPORT
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/190.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UFC  F.Pass" tvg-logo="https://i.imgur.com/Cc4InhF.png" group-title="Pago por evento (PPV)",UFC  F.Pass
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4899.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UFC EVENTO " tvg-logo="https://i.imgur.com/Cc4InhF.png" group-title="Pago por evento (PPV)",UFC EVENTO 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5273.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ULTRA " tvg-logo="http://i.imgur.com/vGJb9LP.png" group-title=".Musica",ULTRA 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/434.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UNICABLE" tvg-logo="http://i.imgur.com/xgRkMsv.png" group-title="Canales Locales Mex",UNICABLE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/53.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UNICABLE MEX FHD" tvg-logo="http://i.imgur.com/xgRkMsv.png" group-title="Canales Locales Mex",UNICABLE MEX FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/157.ts
-#EXTINF:-1 type="stream" tvg-id="UniMas.us" tvg-name="UNIMAS" tvg-logo="https://i.imgur.com/cbiO0sc.png" group-title="Canales Latinos de USA",UNIMAS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/211.ts
-#EXTINF:-1 type="stream" tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/6IUzoFJ.png" group-title=".Entretenimiento",UNIVERSAL CHANNEL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/100.ts
-
-#EXTINF:-1 type="stream" tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://i.imgur.com/6IUzoFJ.png" group-title=".Entretenimiento",UNIVERSAL CHANNEL SD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/382.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UNIVISION CHICAGO" tvg-logo="https://i.imgur.com/n8OvoTp.png" group-title="Canales Latinos de USA",UNIVISION CHICAGO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/269.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UNIVISION HOUSTON" tvg-logo="https://i.imgur.com/n8OvoTp.png" group-title="Canales Latinos de USA",UNIVISION HOUSTON
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/194.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="https://i.imgur.com/n8OvoTp.png" group-title="Canales Latinos de USA",UNIVISION MIAMI
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/197.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA ABC" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA ABC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/268.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA AMC" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA AMC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/245.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA ANIMAL PLANET" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA ANIMAL PLANET
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/272.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA AYE" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA AYE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/225.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA CBS" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA CBS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/254.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA CINE SONY" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA CINE SONY
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5851.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA CNBC" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA CNBC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/258.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA CNBC" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA CNBC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/360.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA COMEDY CENTRAL" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA COMEDY CENTRAL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/355.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA DISCOVERY CHANNEL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/247.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA DISNEY CHANNEL" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA DISNEY CHANNEL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5852.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA DISNEY JR" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA DISNEY JR
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5853.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA FOOD NETWORK" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA FOOD NETWORK
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5855.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA FREEFORM" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA FREEFORM
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5856.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA FX " tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA FX 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5858.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA FXM " tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA FXM 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5857.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA FXX" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA FXX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5876.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA HALLMARK" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA HALLMARK
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5859.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA HGTV" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA HGTV
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/223.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA LIFETIME" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA LIFETIME
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5860.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA MSNBC" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA MSNBC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/277.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA NBC" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA NBC
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/359.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA NICKELODEON " tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA NICKELODEON 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/348.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA PEOPLETV " tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA PEOPLETV 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/251.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA STARZ" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA STARZ
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5861.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA TNT" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",USA TNT
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/356.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UY CANAL 10" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",UY CANAL 10
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/459.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UY CANAL 12" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",UY CANAL 12
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/461.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UY CANAL 4" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",UY CANAL 4
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/460.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UY CANAL 7" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",UY CANAL 7
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/462.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UY VTV" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",UY VTV
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/463.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="UY VTV PLUS" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",UY VTV PLUS
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5628.ts
-#EXTINF:-1 type="stream" tvg-id="Vamos.es" tvg-name="V DIRECTO" tvg-logo="http://i.imgur.com/vaVpCDH.png" group-title=".Deportes",V DIRECTO
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/313.ts
-#EXTINF:-1 type="stream" tvg-id="VH1.mx" tvg-name="VH1" tvg-logo="http://i.imgur.com/n4wA7Qs.png" group-title=".Musica",VH1
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/103.ts
-#EXTINF:-1 type="stream" tvg-id="PTV-VidaReal.mx" tvg-name="VIDA REAL" tvg-logo="http://i.imgur.com/nvpklCS.png" group-title=".Entretenimiento",VIDA REAL
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5480.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="VIDEOROLA " tvg-logo="https://i.imgur.com/CgiFH5D.png" group-title=".Musica",VIDEOROLA 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4373.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="VOLVER" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",VOLVER
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5848.ts
-#EXTINF:-1 type="stream" tvg-id="Warner.mx" tvg-name="WARNER" tvg-logo="https://i.imgur.com/PB1UxXu.png" group-title=".Entretenimiento",WARNER
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/54.ts
-#EXTINF:-1 type="stream" tvg-id="Warner.mx" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://i.imgur.com/PB1UxXu.png" group-title=".Entretenimiento",WARNER CHANNEL FHD
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/148.ts
-#EXTINF:-1 type="stream" tvg-id="Warner.mx" tvg-name="WARNER SD " tvg-logo="http://i.imgur.com/PB1UxXu.png" group-title=".Entretenimiento",WARNER SD 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4454.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="WEATHER CHANNEL " tvg-logo="https://i.imgur.com/JkH3JsH.png" group-title=".Noticias",WEATHER CHANNEL 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4893.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="WILLAX" tvg-logo="https://i.imgur.com/H9NyzAm.png" group-title="Canales del Sur de America",WILLAX
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5091.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="WINSPORT " tvg-logo="http://i.imgur.com/rKyWJHd.png" group-title=".Deportes",WINSPORT 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/458.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="WINSPORT +" tvg-logo="https://i.imgur.com/rKyWJHd.png" group-title=".Deportes",WINSPORT +
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4357.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="WOBI" tvg-logo="http://i.imgur.com/zCnTmQj.png" group-title=".Cultura",WOBI
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/104.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="WORLD HISTORY" tvg-logo="https://i.imgur.com/Hear6gS.png" group-title="Canales de USA",WORLD HISTORY
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/4744.ts
-#EXTINF:-1 type="stream" tvg-id="WWE.us" tvg-name="WWE" tvg-logo="http://i.imgur.com/TEkKcUK.png" group-title=".Deportes",WWE
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/338.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ZONA FUTBOL " tvg-logo="http://i.imgur.com/qTpB6Na.png" group-title="Futbol (Eventos)",ZONA FUTBOL 
-http://alfa.7057460.xyz:2095/live/Brayanarevalo/B123456789/5582.ts
+#EXTINF:-1  group-title="SMARTV",HBO 
+http://tecnotv.club/phoo/smartv.php?id=hbo-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",hbo 2 
+http://tecnotv.club/phoo/smartv.php?id=hbo-2-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",FOX PREMIUM ACTION 
+http://tecnotv.club/phoo/smartv.php?id=fox-premium-action-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",FOX PREMIUM SERIES 
+http://tecnotv.club/phoo/smartv.php?id=fox-premium-series-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Space 
+http://tecnotv.club/phoo/smartv.php?id=space-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Warner Bros TV 
+http://tecnotv.club/phoo/smartv.php?id=warner-bros-tv-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",TNT 
+http://tecnotv.club/phoo/smartv.php?id=tnt-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Fox 
+http://tecnotv.club/phoo/smartv.php?id=fox-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Cinemax 
+http://tecnotv.club/phoo/smartv.php?id=cinemax-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Cinecanal 
+http://tecnotv.club/phoo/smartv.php?id=cinecanal-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Syfy 
+http://tecnotv.club/phoo/smartv.php?id=syfy-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Telefe 
+http://tecnotv.club/phoo/smartv.php?id=telefe-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",El Trece 
+http://tecnotv.club/phoo/smartv.php?id=el-trece-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Distrito Comedia 
+http://tecnotv.club/phoo/smartv.php?id=distrito-comedia-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Telemundo 
+http://tecnotv.club/phoo/smartv.php?id=telemundo-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",History 
+http://tecnotv.club/phoo/smartv.php?id=history-channel-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",History 2 
+http://tecnotv.club/phoo/smartv.php?id=history-2-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Pasiones 
+http://tecnotv.club/phoo/smartv.php?id=pasiones-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Azteca Uno 
+http://tecnotv.club/phoo/smartv.php?id=azteca-uno-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Az Mundo 
+http://tecnotv.club/phoo/smartv.php?id=az-mundo-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Az Cinema 
+http://tecnotv.club/phoo/smartv.php?id=az-cinema-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Galavision 
+http://tecnotv.club/phoo/smartv.php?id=galavision-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Tlnovelas 
+http://tecnotv.club/phoo/smartv.php?id=tlnovelas-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Las Estrellas 
+http://tecnotv.club/phoo/smartv.php?id=las-estrellas-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Caracol 
+http://tecnotv.club/phoo/smartv.php?id=caracol-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",TVC Deportes 
+http://tecnotv.club/phoo/smartv.php?id=tvc-deportes-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",atv 
+http://tecnotv.club/phoo/smartv.php?id=atv-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Univision 
+http://tecnotv.club/phoo/smartv.php?id=univision-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Unicable 
+http://tecnotv.club/phoo/smartv.php?id=unicable-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Unimas 
+http://tecnotv.club/phoo/smartv.php?id=unimas-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Imagen TV 
+http://tecnotv.club/phoo/smartv.php?id=imagen-tv-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Cnn Espanol 
+http://tecnotv.club/phoo/smartv.php?id=cnn-espanol-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",rt noticias 
+http://tecnotv.club/phoo/smartv.php?id=rt-noticias-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Fox Premium Movies 
+http://tecnotv.club/phoo/smartv.php?id=fox-premium-movies-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Fox Premium Family 
+http://tecnotv.club/phoo/smartv.php?id=fox-premium-family-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",FX 
+http://tecnotv.club/phoo/smartv.php?id=fx-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",FXM 
+http://tecnotv.club/phoo/smartv.php?id=fxm-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Fox Life 
+http://tecnotv.club/phoo/smartv.php?id=fox-life-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Golden Plus 
+http://tecnotv.club/phoo/smartv.php?id=golden-plus-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",goldenedge 
+http://tecnotv.club/phoo/smartv.php?id=golden-edge-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Golden Premier 
+http://tecnotv.club/phoo/smartv.php?id=golden-premier-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",hboplus 
+http://tecnotv.club/phoo/smartv.php?id=hbo-plus-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",HBO Family 
+http://tecnotv.club/phoo/smartv.php?id=hbo-family-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",HBO Xtreme 
+http://tecnotv.club/phoo/smartv.php?id=hbo-xtreme-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",HBO POP 
+http://tecnotv.club/phoo/smartv.php?id=hbo-pop-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",TNT Series 
+http://tecnotv.club/phoo/smartv.php?id=tnt-series-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",canal sony 
+http://tecnotv.club/phoo/smartv.php?id=canal-sony-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",axn 
+http://tecnotv.club/phoo/smartv.php?id=axn-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Universal Channel 
+http://tecnotv.club/phoo/smartv.php?id=universal-channel-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Studio Universal 
+http://tecnotv.club/phoo/smartv.php?id=studio-universal-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Multi Premier 
+http://tecnotv.club/phoo/smartv.php?id=multi-premier-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",AMC 
+http://tecnotv.club/phoo/smartv.php?id=amc-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Paramount Channel 
+http://tecnotv.club/phoo/smartv.php?id=paramount-channel-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Cine Latino 
+http://tecnotv.club/phoo/smartv.php?id=cine-latino-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Dpelicula 
+http://tecnotv.club/phoo/smartv.php?id=dpelicula-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Isat 
+http://tecnotv.club/phoo/smartv.php?id=isat-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",MTV 
+http://tecnotv.club/phoo/smartv.php?id=mtv-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",MTV Hits 
+http://tecnotv.club/phoo/smartv.php?id=mtv-hits-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",HTV 
+http://tecnotv.club/phoo/smartv.php?id=htv-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Bandamax 
+http://tecnotv.club/phoo/smartv.php?id=bandamax-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Comedy Central 
+http://tecnotv.club/phoo/smartv.php?id=comedy-central-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",National Geographic 
+http://tecnotv.club/phoo/smartv.php?id=national-geographic-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Nat Geo Wild 
+http://tecnotv.club/phoo/smartv.php?id=nat-geo-wild-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",animalplanet 
+http://tecnotv.club/phoo/smartv.php?id=animal-planet-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Discovery Channel 
+http://tecnotv.club/phoo/smartv.php?id=discovery-channel-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Discovery Turbo 
+http://tecnotv.club/phoo/smartv.php?id=discovery-turbo-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",discoveryhyh 
+http://tecnotv.club/phoo/smartv.php?id=discovery-home-and-health-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",ID Investigation 
+http://tecnotv.club/phoo/smartv.php?id=id-investigation-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Discovery A&amp;E 
+http://tecnotv.club/phoo/smartv.php?id=discovery-a-y-e-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Discovery TLC 
+http://tecnotv.club/phoo/smartv.php?id=discovery-tlc-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Discovery Theater 
+http://tecnotv.club/phoo/smartv.php?id=discovery-theater-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Discovery World 
+http://tecnotv.club/phoo/smartv.php?id=discovery-world-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",everything 
+http://tecnotv.club/phoo/smartv.php?id=everything-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Lifetime 
+http://tecnotv.club/phoo/smartv.php?id=lifetime-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",TBS 
+http://tecnotv.club/phoo/smartv.php?id=tbs-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",el gourmet 
+http://tecnotv.club/phoo/smartv.php?id=el-gourmet-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Disney Channel 
+http://tecnotv.club/phoo/smartv.php?id=disney-channel-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Disney xD 
+http://tecnotv.club/phoo/smartv.php?id=disney-xd-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Disney Junior 
+http://tecnotv.club/phoo/smartv.php?id=disney-junior-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",nick 
+http://tecnotv.club/phoo/smartv.php?id=nick-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",nick2 
+http://tecnotv.club/phoo/smartv.php?id=nick-2-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",nick jr 
+http://tecnotv.club/phoo/smartv.php?id=nick-jr-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",nicktoons 
+http://tecnotv.club/phoo/smartv.php?id=nicktoons-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Cartoon Network 
+http://tecnotv.club/phoo/smartv.php?id=cartoon-network-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Boomerang 
+http://tecnotv.club/phoo/smartv.php?id=boomerang-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Tooncast 
+http://tecnotv.club/phoo/smartv.php?id=tooncast-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Discovery Kids 
+http://tecnotv.club/phoo/smartv.php?id=discovery-kids-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Nat Geo Kids 
+http://tecnotv.club/phoo/smartv.php?id=nat-geo-kids-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Boing 
+http://tecnotv.club/phoo/smartv.php?id=boing-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Vh1 
+http://tecnotv.club/phoo/smartv.php?id=vh1-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Vh1 Classic 
+http://tecnotv.club/phoo/smartv.php?id=vh1-classic-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",TELEHIT 
+http://tecnotv.club/phoo/smartv.php?id=telehit-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",Top Latino 
+http://tecnotv.club/phoo/smartv.php?id=top-latino-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",WWE Network 
+http://tecnotv.club/phoo/smartv.php?id=wwe-network-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",NBA 
+http://tecnotv.club/phoo/smartv.php?id=nba-en-vivo&f=.m3u8
+#EXTINF:-1  group-title="SMARTV",NFL Network 
+http://tecnotv.club/phoo/smartv.php?id=nfl-network-en-vivo&f=.m3u8
 
 
 
