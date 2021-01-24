@@ -1,4 +1,57 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Thunder Cats
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_THUNDERCATS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_SIMPSONS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons [2]
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_SIMPSON&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Malcolm el de enmedio
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_MALCOLM&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Alf 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_ALF&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Animaniatics
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_ANIMANIATICS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Bob Esponja
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_BOBESPONJA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | El Chavo del 8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_CHAVO&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Futurama
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_FUTURAMA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Pantera Rosa
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_PANTERAROSA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Teoria del Bing Bang
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_BINGBANG&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Pokemon
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_POKEMON&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Smallville
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_SMALLVILLE&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Como conoci a tu madre
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_MADRE&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Supercampeones
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_SUPERCAMPEONES&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Peliculas
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/canal/canales?android=247_PELICULAS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="WARNER BROS" logo="https://www.televisiongratishd.com/img/warnerbrostv.png",WARNER BROS
 http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/79
 #EXTINF:-1 tvg-id="" tvg-name="TNT" logo="https://www.televisiongratishd.com/img/tnt.png",TNT
