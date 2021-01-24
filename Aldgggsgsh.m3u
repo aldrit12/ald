@@ -2,12 +2,7 @@
 
 
 
-#EXTINF:-1  group-title="SMARTV",HBO 
-http://tecnotv.club/phoo/smartv.php?id=hbo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",hbo 2 
-http://tecnotv.club/phoo/smartv.php?id=hbo-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",FOX PREMIUM ACTION 
-http://tecnotv.club/phoo/smartv.php?id=fox-premium-action-en-vivo&f=.m3u8
+
 #EXTINF:-1  group-title="SMARTV",FOX PREMIUM SERIES 
 http://tecnotv.club/phoo/smartv.php?id=fox-premium-series-en-vivo&f=.m3u8
 #EXTINF:-1  group-title="SMARTV",Space 
