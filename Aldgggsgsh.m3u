@@ -1,6 +1,23 @@
 #EXTM3U
 
-
+#EXTINF:-1,24/7 - GARFIELD
+http://tv.nousiptv.com:8080/Lucy/123456/18577
+#EXTINF:-1,24/7 EL CHAVO DEL OCHO
+http://tv.nousiptv.com:8080/Lucy/123456/18576
+#EXTINF:-1,24/7 - DRAGON BALL SUPER
+http://tv.nousiptv.com:8080/Lucy/123456/29406
+#EXTINF:-1,24/7 - FUTURAMA
+http://tv.nousiptv.com:8080/Lucy/123456/29407
+#EXTINF:-1,24/7 - LOONEY TUNES
+http://tv.nousiptv.com:8080/Lucy/123456/29409
+#EXTINF:-1,24/7 - LOS SIMPSON HD
+http://tv.nousiptv.com:8080/Lucy/123456/29412
+#EXTINF:-1,24/7 - TOM Y JERRY
+http://tv.nousiptv.com:8080/Lucy/123456/46490
+#EXTINF:-1,24/7 LOS PICAPIEDRAS
+http://tv.nousiptv.com:8080/Lucy/123456/44728
+#EXTINF:-1,24/7 LOS PINGUINOS DE MADAGASCAR 
+http://tv.nousiptv.com:8080/Lucy/123456/48406
 
 
 #EXTINF:-1  group-title="SMARTV",FOX PREMIUM ACTION 
