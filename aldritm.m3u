@@ -1,324 +1,118 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Thunder Cats
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_THUNDERCATS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_SIMPSONS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons [2]
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_SIMPSON&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Malcolm el de enmedio
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_MALCOLM&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Alf 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_ALF&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Animaniatics
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_ANIMANIATICS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Bob Esponja
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_BOBESPONJA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | El Chavo del 8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_CHAVO&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Futurama
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_FUTURAMA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Pantera Rosa
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_PANTERAROSA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Teoria del Bing Bang
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_BINGBANG&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Pokemon
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_POKEMON&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Smallville
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_SMALLVILLE&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Como conoci a tu madre
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_MADRE&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Supercampeones
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_SUPERCAMPEONES&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Peliculas
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-https://teleclub.xyz/canal/canales?android=247_PELICULAS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+
+#EXTINF:-1 tvg-id="" tvg-name="FX " logo="https://www.televisiongratishd.com/img/fx.png",FX 
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96637171&_cdn_timestamp=1635513227&_cdn_token=faa073336cbd326fb1b55aaa5d72cff4d7bfce56
+
+#EXTINF:-1 tvg-id="" tvg-name="FXM ¿" logo="https://www.televisiongratishd.com/img/fxm.png",FXM
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FXM/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFXM_stream_p5&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96636443&_cdn_timestamp=1635513148&_cdn_token=5bed0006cd4c416095de1b234a5632c752dd4735&duration=6360&start=1635439320
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="WARNER BROS" logo="https://www.televisiongratishd.com/img/warnerbrostv.png",WARNER BROS
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/79
-#EXTINF:-1 tvg-id="" tvg-name="TNT" logo="https://www.televisiongratishd.com/img/tnt.png",TNT
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/33
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL" logo="https://www.televisiongratishd.com/img/fox.png",FOX CHANNEL
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/71
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" logo="https://www.televisiongratishd.com/img/cinemax.png",CINEMAX
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/7
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES" logo="https://www.televisiongratishd.com/img/foxpremiumseries.png",FOX PREMIUM SERIES
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/18
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION" logo="https://www.televisiongratishd.com/img/foxpremiumaction.png",FOX PREMIUM ACTION
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/11
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 " logo="https://www.televisiongratishd.com/img/hbo2.png",HBO 2 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/22
-#EXTINF:-1 tvg-id="" tvg-name="HBO" logo="https://telegratis.org/wp-content/uploads/2019/11/hbo.png",HBO
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/21
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" logo="https://www.televisiongratishd.com/img/history.png",HISTORY
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/42
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96637355&_cdn_timestamp=1635513265&_cdn_token=4f52f3b1ade3a6896d515156619c800a6144c12a
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" logo="https://www.televisiongratishd.com/img/history2.png",HISTORY 2
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/41
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96637523&_cdn_timestamp=1635513299&_cdn_token=d06ad9d1c105bb096080c7452ad14a4b688885a9
 
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL" logo="https://www.televisiongratishd.com/img/cinecanal.png",CINECANAL
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/5
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES" logo="https://www.televisiongratishd.com/img/foxpremiummovies.png",FOX PREMIUM MOVIES
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/17
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FAMILY " logo="https://www.televisiongratishd.com/img/foxpremiumfamily.png",FOX PREMIUM FAMILY 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/16
-#EXTINF:-1 tvg-id="" tvg-name="FX  " logo="https://www.televisiongratishd.com/img/fx.png",FX  
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/73
-#EXTINF:-1 tvg-id="" tvg-name="FXM  " logo="https://www.televisiongratishd.com/img/fxm.png",FXM 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/72
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE " logo="https://www.televisiongratishd.com/img/foxlife.png",FOX LIFE
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/66
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS " logo="https://www.televisiongratishd.com/img/goldenplus.png",GOLDEN PLUS
-http://tecnotv.club/year/principal.php?c=95&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINECANAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANAL_stream_hd&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96637771&_cdn_timestamp=1635513338&_cdn_token=82f8d8296adf49dd90728c3011d9932dd083a51e
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL " logo="https://www.televisiongratishd.com/img/goldenplus.png",GLOBAL
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96638755&_cdn_timestamp=1635513486&_cdn_token=1f1a2d29566ec42a0eeaca794fca5cee434664dd
+
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE  " logo="https://www.televisiongratishd.com/img/goldenedge.png",GOLDEN EDGE 
 http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/20
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER " logo="https://www.televisiongratishd.com/img/goldenpremier.png",GOLDEN PREMIER
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/19
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS " logo="https://www.televisiongratishd.com/img/hboplus.png",HBO PLUS 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/25
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY " logo="https://www.televisiongratishd.com/img/hbofamily.png",HBO FAMILY 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/23
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES " logo="https://www.televisiongratishd.com/img/tntseries.png",TNT SERIES 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/77
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SONY " logo="https://www.televisiongratishd.com/img/canalsony.png",CANAL SONY 
-http://tecnotv.club/year/principal.php?c=132&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96639739&_cdn_timestamp=1635513640&_cdn_token=484134604c9cae778bb3fd2c65443f4596ce468c
+
 #EXTINF:-1 tvg-id="" tvg-name="AXN " logo="https://www.televisiongratishd.com/img/axn.png",AXN 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/69
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96640099&_cdn_timestamp=1635513696&_cdn_token=89268e5bd9ed1cade278ce4ce16ec4343e341c56
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL " logo="https://www.televisiongratishd.com/img/universalchannel.png",UNIVERSAL CHANNEL 
-http://tecnotv.club/year/principal.php?c=159&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96640323&_cdn_timestamp=1635513737&_cdn_token=8bd969501362c628437f73664ac2a567f03098bd
+
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL " logo="https://www.televisiongratishd.com/img/studiouniversal.png",STUDIO UNIVERSAL 
-http://tecnotv.club/year/principal.php?c=134&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96640475&_cdn_timestamp=1635513765&_cdn_token=5349318e79735d5bf3cbdf2ffcf00973c78ddaab
+
 #EXTINF:-1 tvg-id="" tvg-name="AMC " logo="https://www.televisiongratishd.com/img/amc.png",AMC
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/3
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96641011&_cdn_timestamp=1635513842&_cdn_token=10a69d1d128e51294ed0f8aa96e9c7ab747f8006
+
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL " logo="https://www.televisiongratishd.com/img/paramountchannel.png",PARAMOUNT CHANNEL 
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/29
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" logo="https://www.televisiongratishd.com/img/cinelatino.png",CINE LATINO 
-http://tecnotv.club/year/principal.php?c=23&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DPELICULA  " logo="https://www.televisiongratishd.com/img/dpelicula.png",DPELICULA 
-https://live.televisiongratishd.com/tvplus2021/85_.m3u8?token=D7Oiu7e_iFRN6XYm8cc8jQ&expires=1609484402&ip=190.108.87.165
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96641387&_cdn_timestamp=1635513893&_cdn_token=15b554c86817144992c3a8a5362ccf5423c84f05
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV " logo="https://www.televisiongratishd.com/img/mtv.png",MTV 
-http://tecnotv.club/year/principal.php?c=115&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL " logo="https://www.televisiongratishd.com/img/comedycentral.png",COMEDY CENTRAL 
-https://live.televisiongratishd.com/tvplus2021/91_.m3u8?token=Iwl38JZgbdvIlLsY9nBBMQ&expires=1609484440&ip=190.108.87.165
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96641947&_cdn_timestamp=1635513982&_cdn_token=0fe87d6ad0751436f065f5ec93c8176639ced676
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " logo="https://www.televisiongratishd.com/img/nationalgeographic.png",NATIONAL GEOGRAPHIC 
-http://tecnotv.club/year/principal.php?c=120&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96642451&_cdn_timestamp=1635514057&_cdn_token=7312a9a5f694731949b8e54ce9c1225a26a583b1
+
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " logo="https://www.televisiongratishd.com/img/natgeowild.png",NAT GEO WILD 
-http://tecnotv.club/year/principal.php?c=122&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEOWILD/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEOWILD_stream_9w&_cdn_hls_media=1&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96642571&_cdn_timestamp=1635514081&_cdn_token=152e868df83e7ed6906d5b64453d22b64246ccf8
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " logo="https://www.televisiongratishd.com/img/animalplanet.png",ANIMAL PLANET 
-http://tecnotv.club/year/principal.php?c=7&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96642939&_cdn_timestamp=1635514134&_cdn_token=aa7dc92e84dcad6adaf9ae0a3465b6f2bc141c99
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " logo="https://www.televisiongratishd.com/img/discoverychannel.png",DISCOVERY CHANNEL 
-http://tecnotv.club/year/principal.php?c=35&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96643251&_cdn_timestamp=1635514189&_cdn_token=437f020ceb9b02f85efe815bb4cdf760ba83dd84
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO " logo="https://www.televisiongratishd.com/img/discoveryturbo.png",DISCOVERY TURBO 
-http://tecnotv.club/year/principal.php?c=42&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96643539&_cdn_timestamp=1635514231&_cdn_token=71827d3c0d17ce14a8d6f5aee86824292da696c9
+
 #EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION " logo="https://www.televisiongratishd.com/img/idinvestigation.png",ID INVESTIGATION
-http://tecnotv.club/year/principal.php?c=105&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY A&E " logo="https://www.televisiongratishd.com/img/discoveryaye.png",DISCOVERY A&E
-http://tecnotv.club/year/principal.php?c=37&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ID/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96644267&_cdn_timestamp=1635514338&_cdn_token=b2c91d2236c9e2dbb34e8920c3819575cdb1f67d
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER " logo="https://www.televisiongratishd.com/img/discoverytheater.png",DISCOVERY THEATER 
-http://tecnotv.club/year/principal.php?c=40&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96644475&_cdn_timestamp=1635514379&_cdn_token=75f9c21f702254cdafb6a8aaf3f5d858a1757be2
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD " logo="https://www.televisiongratishd.com/img/discoveryworld.png",DISCOVERY WORLD 
-https://live.televisiongratishd.com/tvplus2021/102_.m3u8?token=So6Q7PmlDbHZoPtl8zdBRw&expires=1609402128&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="EVERYTHING " logo="https://www.televisiongratishd.com/img/everything.png",EVERYTHING
-https://live.televisiongratishd.com/tvplus2021/103_.m3u8?token=03MS70E3ndFX6dKArQZlRQ&expires=1609490292&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="TBS" logo="https://www.televisiongratishd.com/img/tbs.png",TBS 
-http://tecnotv.club/year/principal.php?c=138&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYWORLD_stream_tr&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96644723&_cdn_timestamp=1635514412&_cdn_token=5a4dae9da12422e55b7461f81da5b6197a13f584
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DW" logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj",DW 
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DWESPANOL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDW_stream_47&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96644995&_cdn_timestamp=1635514441&_cdn_token=9e3e1e5d3be506cc06f79281930dfc75632a7d3e
+
 #EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" logo="https://www.televisiongratishd.com/img/elgourmet.png",EL GOURMET 
-https://live.televisiongratishd.com/tvplus2021/106_.m3u8?token=KndO5gLijFWmazvHOB8M4w&expires=1609490337&ip=190.108.87.165
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96646043&_cdn_timestamp=1635514605&_cdn_token=71232d80951077f0c00785c083c1a3731605c30b
+
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL " logo="https://www.televisiongratishd.com/img/disneychannel.png",DISNEY CHANNEL 
-http://tecnotv.club/year/principal.php?c=44&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96646635&_cdn_timestamp=1635514656&_cdn_token=576570eba5ab9c1fc8b7cf66ea5d1445be80ac4f
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY XD " logo="https://www.televisiongratishd.com/img/disneyxd.png",DISNEY XD  
-http://tecnotv.club/year/principal.php?c=46&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYXD/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYXD_stream_y1&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96646859&_cdn_timestamp=1635514685&_cdn_token=50a937c1f9a680dae0e37809faa609b87574d08d
+
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR " logo="https://www.televisiongratishd.com/img/disneyjunior.png",DISNEY JUNIOR 
-http://tecnotv.club/year/principal.php?c=45&f=.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96647227&_cdn_timestamp=1635514733&_cdn_token=4906d21e41c83d565488bb7c920c09612e649f7b
+
 #EXTINF:-1 tvg-id="" tvg-name="NICK  " logo="https://www.televisiongratishd.com/img/nick.png",NICK  
-https://live.televisiongratishd.com/tvplus2021/110_.m3u8?token=-rimrx2kP_B8bQcpkGVrkg&expires=1609490552&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="NICK 2 " logo="https://www.televisiongratishd.com/img/nick2.png",NICK 2 
-https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=4SqEqECVeFndIYVqvZQU0g&expires=1609490593&ip=190.108.87.165
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96647427&_cdn_timestamp=1635514769&_cdn_token=20f896c1264f06ea182145b519afe92a024154d7
+
+
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR " logo="https://www.televisiongratishd.com/img/nickjr.png",NICK JR
-https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=jvqVORB3pGUABs0fR1ggOQ&expires=1609490644&ip=190.108.87.165
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96647595&_cdn_timestamp=1635514791&_cdn_token=235c4d55d8a95a213b70d030098ed48b7f84e0af
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS " logo="https://www.televisiongratishd.com/img/nicktoons.png",NICKTOONS 
-https://live.televisiongratishd.com/tvplus2021/113_.m3u8?token=0biFx9cH6jfKQ9aDezhNWQ&expires=1609490670&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK " logo="https://www.televisiongratishd.com/img/cartoonnetwork.png",CARTOON NETWORK 
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CqMFl-Wqxb1Z0QDTFqLCL07GyUzygrqt_2Mm32yBPt10qKOgFGP0-BE1CcIdD5J_b72iLVGXz8qN6LoHzMz1eCsQKqw8oYAQ-8hagWnrYG-Hs-0w0c8euMXo74VOqaoGgyWRTajA5-5QPTkMzUPPgXAA-h_fCe6jTQSYVpbBBuNqc5KjFs_eMqsERhnDosER3Q13qXAY4dApylg3ZD9oPu__hloMJqI30XSMKElHpOK0VMHDL_uSDDOYG3BAod23VBWacZqjrKWIoXwdGxu9l8CCpN4Q0PBpjTwNS1J-pUkM2TqPV_4VHqeJ24iSi6Mg9nn-lG67h33N_ZuLfWEGb-iCEgi51pZSfeSTre1zMCsujKGADSKZVOoX-A6TgydDcW5tVgkwGa-P8zX2NGjKDvKU6JTY6xPA1P6b5jTd4gAw1tFyTmKGiuj6sDP6W5VfGqOVGJd4vPug1hu8V-33WkNwX_TzYFjQbhhBzB8UF1W-B9MD8TrIoXhrfmdqqxVoFh8P4eUYp0KMl1TBhL6zcbZxkEnW8MfZ6uF65PmQ9-uMFfyTYvzzZNA7TTVR0dWriJYa9_GOLL1u7i8rGpIZnXfG9AE3PFDbKeu9uofcQ-pXnlNWgp3_81e_WV72JTTQexfEOTa8szBOkyn7Mt2s6cFuTxEJUoGFkLxbrjZibvhoy8RJ0Z0YyQqUHr5u2BHALpoQXRLWES8PHFqtBtnHqM7T1aYGKYkt6z0ZDy-kE2lBAg3lYm7cMehUVjsxsonfWZyMjPTfwbtZbMprezMoFsRTozyraTOjlNGwNHkD99f1n22sxsTouL3S9G3_mdZKipV1_6zjTcHDSZVBc9mh5X8n05TcdBEqGD4EuCS25Cu0yg-P7_mZ6doyPj8cGQ-_KST97OmqEhBQ6p6fl2XconzjFIxoi8AmGgyRo4WvQAxoxi22ey0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG " logo="https://www.televisiongratishd.com/img/boomerang.png",BOOMERANG
-http://tecnotv.club/year/principal.php?c=20&f=.m3u8s
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST  " logo="https://www.televisiongratishd.com/img/tooncast.png",TOONCAST  
-https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=3ZQTmuMTawTJYHftU0395w&expires=1609491188&ip=190.108.87.165
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS " logo="https://www.televisiongratishd.com/img/discoverykids.png",DISCOVERY KIDS 
-https://live.televisiongratishd.com/tvplus2021/117_.m3u8?token=fAZItfnAqfTgQQWRpZuDuw&expires=1609491237&ip=190.108.87.165
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYKIDS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYKIDS_stream_hv&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96648027&_cdn_timestamp=1635514867&_cdn_token=af8cd4ab9a1b32b8c4d8af1003cc52aadd2ba933
+
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS " logo="https://www.televisiongratishd.com/img/natgeokids.png",NAT GEO KIDS 
-http://tecnotv.club/year/principal.php?c=102&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING " logo="https://www.televisiongratishd.com/img/boing.png",BOING 
-https://live.televisiongratishd.com/tvplus2021/119_.m3u8?token=6-9nExNE_Nm_gDrW3r-4VQ&expires=1609491540&ip=190.108.87.165
-
-#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO " logo="https://www.televisiongratishd.com/img/toplatino.png",TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT " logo="https://www.televisiongratishd.com/img/telehit.png",TELEHIT 
-https://live.televisiongratishd.com/tvplus2021/122_.m3u8?token=H8ZKlJq071i_Nqp3Uz6P6Q&expires=1609491646&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO 24/7" logo="https://www.televisiongratishd.com/img/elchavo.png",EL CHAVO 24/7 
-https://live.televisiongratishd.com/tvplus2021/150_.m3u8?token=vcqqeWRz5-1rEUeD2wUOwQ&expires=1609491679&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="ALF 24/7 " logo="https://www.televisiongratishd.com/img/alf.png",ALF 24/7 
-https://live.televisiongratishd.com/tvplus2021/128_.m3u8?token=icRYaCZF-7RvFJaTu3Y5Fw&expires=1609491719&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24/7 " logo="https://dragonball.sullca.com/wp-content/uploads/2017/08/Dragon-Ball-Super-online-LATINO-ESPAnOL.png?x74870",DRAGON BALL SUPER 24/7
-https://live.televisiongratishd.com/tvplus2021/191_.m3u8?token=yHmL9j7g-6Lglz2Z39YGhw&expires=1609491736&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="Futurama " logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/futurama_mania__320.jpg",Futurama 
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CrkFqv3Je-2oTj6axmRHBM-z5Kp-REEbWSHpR-lH8by3EMHMB0wdaEJCuS07ADBQ-tbyBjHJTX8zuNoO4f8XaXh7AUuxfPFHZPtrHtj8RhK70H-1wli0imG3oa-ZIru94a7pI4vW4vIHXogOE6JfVgJi31YcqPuAy9TKtiu-bpho5mtILqBbRJ5YJElazUQUEyDJBG9Aj6_9Kh1hYgThExpBbbtC77jfXiUULcSFHoJaGrmsrzElCOeElFvuViaYZGSfGeXFkdm3KiTMfOvZcpzx2pRS8N4_FltcmLozUPhYxQRFA0lKWwSkVZpQxB9mmBXmRb4xx4XFmYvh-mrulhDUetcItn_GVXtF3GY0ocGX3sO-MFaXkwmhMysBA6o6FgcweiC7WabdnqKCXVUg-UaGEFSr45qyXA0DYU1eAxLyuDuAb5kWt_OfTwwLUYZDmniwshtKGKdXoM8WBhp3dxBbyJZwVKs-yesFc9yNtt9zt--6IDuIkPQiDvJ-x1Y416aw8MTbBm3lMXU2dl2G5o36fASrC8uqTCBzSdSyRbcpUmcHtsLpGIlsUsaKKR2mmr4lMK9hx9oBw5ZctWR9biEbpko33Rc8bpW-o6PnsZHtANgOtE2SZlQjneiDc4dATpCyhgfgJUvLnbourvEtv7d2Gms-XqBMBBBKeFNx2V7IXAyPeRVhB6yn1tjKPh8v43sDSfxcKdSpXOE8xRxgzPDoWy-aV2r01DiRRDytLqoV09ieY8jX7WC9SQbVSGAdhOOGhtK2RP3STaUoSM9HuM2U82rneSUK-QpseBWL-MFYD3iV8b9ZB4Pd-w5oVlgAPOxdXLI7MyPoPB9P7rzaLjRYbM7D7O4880zQ0sWmblTrsWFCMqvEgicNLUqpFijvFHoW_byKKUcOBMiZ2edssLKhThK3tpFAsNnoTRIQdka0ehQKyoThZhQUvF_ZbRoMURNThqHeoCP7PSAJ.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons " logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/simpson_maniahd184_320.jpg",Los Simpsons 
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CrYF5IrqE-uT1S1TFqNEfkEAyVxh-AS3-9DIobWS50iOGJ6pG9D5adA-RPCazcwho6nQIGqqe1ZQTRIciIYR2rb8uFxNoQvQxmExHZGmUkwOrgjjWOgSo_Yu6LgSXn4DD2hnD_Tp70KX0Armx2K_6Bu9gpVZmaDHB23bu4L2_q1SmzJfKjKNaWEHPzxxXn4Dn37ZSTXyCAOTAI62-WVNnS8FQNtsi6PslJ_8BYsYy8BiAJ9ZwO1PlDeEML0JWjfSrVBwRaDUDJpjOFY9e3_-E8R9660ev7jlEoAaJRAmH4CoIP3mOP0HT8GY7kqI8Rp-Kluh_1c3AdVXOa_Es6CNkIRRZ-KcZTrCIyApxym8sIBZOhyRGT-2rXS-odPQZyO0RA7e81j1_8SmjNp2GyTidbL8TRtdOwEB3MWaWJ0Gr2sYjIh7sMWkDZZQFhxuuSGn5TGv47_FO64SvfK3J1nJLcsWNRjQQfzJQhk19CJ--6tPGucFEKiWeHWOGgrJJvhuQ6n6kVJt2VudKJm0DM9vNEcrS2nrECNF8EfTIE8ohbD4mi0oKfUU8GrmGqgFeluBtuAk0LpXrgEqgDhdtqslLrKX2OQ62OOMhb6wR_ggGlytB72OX9efsqjDFkTbnaa8GDn_p5YRLhizA3gZeYrDddxKXrmdbiKUx02noyzz_1Lh1J9I8KqZQa1vTVCUO7mSGMdljExxKFFNTfHmpl3NiR3o2d1aelgqfMFdNn_ZwLf8mPiEsT-ijMCOxideJ_UGrTIX-R8i-gIwbgStwKx75Ldck24FMjM210RCpctDNguTeajnHd4YaUhH9ozczm-9Orx5vPYurbzaqvWD_4XnwqmQsqBIPp5kd_FnFteT1M15pNv1d-VSwwH5Bffg9Ln6londknDvRLZlLTCEwEPRxO7raBmrmCrwYRIQz-iVwuaOVSN1mBundcm_fRoMKWrBSovd704u5K9I.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="simsomp 1 " logo="https://1.bp.blogspot.com/-vac0bQDsqo8/WotiUmRYl_I/AAAAAAAAAag/V48B1QEn6MIbnxu0aMFaouE3eKYGQPybgCLcBGAs/s1600/simpsons.png",simsomp 
-http://89.105.194.59:25461/live/spen!$F10$/spen!$F10$/68.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="peliculas mania" logo="https://club-tv.net/img/movies.webp",peliculas mania
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CroF41AoHYI0emk8EXIPWRvjR8bdo8XcFon82enZ9UhbKLrmHdmisTgZ-a6VqPJJJqr_XK9gHQ5BQyamjmoCm3dmdqdFS2pNTNU87WhZsT98Vbl9B6P6niu17fLe-FZmTX0avVZBPsmVGhg21JNwc2gkjKIsbPbO-weu_2awxGrTd7DEvm6oiHJmorH7kksjH0mVSAC52vIODq3ckizqT9krCaahDZFwht0cCP6gTxqE-N5G4asPZwYAFGmEATqDc8xOB-jjjUn62VMcxwDEF4Yftbp4m_20iTB_VAAnn358YDtw9fh5nJQD4XviAUMGH5X_b2EbBeC7Mb6u5w5PwvhEjPHOPBHXr68Q1qYjVas-H4zhMIgspNi7fY1wQ05klFL1W4MyD30Rm-hWHtfVPkiVEP11T9dbJse_Fjfb-Ts9TfHVT1JLWytuHmflMBoJiObW3ErVZ19ZWME5uIe4IjN2FB3XcGlcoK92V2vbbnq-vJeJoeg28uP3l6DmEigtZBb9s5gvdCOv1Wsn9Ym-SzFquDiW1ylL7M-RSphY6W2q-coXeNaj3wp5tOycTrNfUCSb4sNBwhk3R8EWz-Omw63lqt2HlrOcGpwmOp3sQo2v0sdhwkEHCKr0hq-u2Sa1HsJmfNHOIDmVAuiZoV8uRcZXD6JnoJGrrPF3OHZxYzxnzQGD-Jba4xpATDpwqG0rIojc3albqTNi6EOTmSpBQrE0syapIGagptrdaVgRhHbLHB9ysDwNCedLbLoeOPlWad5F2Q1q47qC7krkuE599K1WPTKrm4jLOXvfDviIrm248tfa21jqZ3JAOev-CIhX3xZQELduAbevJ_SVBkgEYbgZP-C7Ln-IGGRa16d-BybkkE_TDkQU1Sig6UVyA6KxKk6s_4v3uoTY_a0gpDX8M2DmJEUYS5jDCXXZbP4SEGGvN_wh4e4ABv5z5nR_SD4aDLfUtbDAVJp3N4dtAQ.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Radio m2o" logo="https://club-tv.net/img/radiom2o.webp",Radio m2o 
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="Rock Tv " logo="https://telegratis.org/wp-content/uploads/2019/11/fox-family.png",Rock Tv 
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP|| FUTURAMA" tvg-logo="" group-title="TV",24/7 VIP|| simsomp24
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CrMFQ3jt_PtpjSrdGJWtHiwv3ahjwJ_OfTudtdbhGiEYJ_T1sIx_mx0Jj_JLovq87K7YKkCz_qnknzY_k3xXiXhB-siz5Dukn6DZeGvlTIU-Rif49wv9Zvz_uqTwYBcL6x9zUPFjOoHIcT2gpDov4x0Wl0bcBhxnY-b-oe0irBpqlXB1zVpZvywp3E6HExAL-uB523Wn21MMqMklzZCkan4PXTg2IINOdQUUzkIgTFqzQAdFDxn36ebBN1CZULYrOTsvHMzW7xesmLRvXtdC8apbxwCsz64z4pktNmQAIbLDUT3n7KSnomY3TFavYhMaOCv9ZIUOrX5aciLXxJqLkdjNesPbUm9tirs2PPh6tVNqRnB5tfne2FO7Ke0eR_B_dfsDr6nJ9QTcOXCToSeq-8uHgaAbNOploCizAvzjaJNfchbTHIck55pqlcoTGk9Hdf_4GbqYa0LJ6mabvYcROYAGc_owbzIUOEQXm3YFIOVamWL6iY-lcmyeOiAPi1bj8qxKlYOLstnsl13SNG6v3uQE1T5vAG3N1Y_E5hUX10bwqyjHKKs7F3L1_HG5h6kS1sROAfcF7a-WXhLdlqL75hzXDjLJYqWuA-rrQFLMbayyrzxtLKjys2FN8lB3n4f0-MJjpNnj1WdqjT-YCV2mIkNV2APlqnS-waEzF3kcu6r9vAtJOwMnBLCBtjsDPeVS1xK2-T96yQyZHOeK0JC6v1pSvJHueCH2Nxnzz3BFl5OiCRNrf96M9-oqzAdRHxMd0x9PHhmw5bzySCJzUPOWBGlAmSmYzYMpl83zTgu8TzAQ4PuE0BktIFTzojzAGB59Nh9IjI-RrQhMuKF5NV1L0F7CW0tb7EdqL1uyhbg0Py075CSKkLQce9ZJbOH8HnF5GsQ2tULId9bJkvMOOiAi2NfLjPXCphIQ_SeFqocqJoMENJvMxPaCaRoMGz0Or7C8t0Ai2Qv0.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEOKIDS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEOKIDS_stream_v7&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96648187&_cdn_timestamp=1635514897&_cdn_token=6f0f65b649a0f756a19ec1c294c9f69d89daa964
 
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/872
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/873
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/877
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/884
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/887
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/896
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/897
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/899
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="" group-title="24/7",24/7 FUTURAMA 1999
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/902
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/907
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/908
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="" group-title="24/7",24/7 LA HORA PICO
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/909
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="" group-title="24/7",24/7 LA PANTERA ROSA
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/910
-
-
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" logo="https://www.televisiongratishd.com/img/tlnovelas.png",GALAVISION
-https://live.televisiongratishd.com/tvplus2021/55_.m3u8?token=vIYMsI0DIzoP51kMCA87sA&expires=1609483883&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS " logo="https://www.televisiongratishd.com/img/tlnovelas.png",TLNOVELAS 
-https://live.televisiongratishd.com/tvplus2021/56_.m3u8?token=hI56z6nJrdgOhBC8wwsFhQ&expires=1609483937&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" logo="https://www.televisiongratishd.com/img/lasestrellas.png",LAS ESTRELLAS
-https://live.televisiongratishd.com/tvplus2021/57_.m3u8?token=-Wj8yUGo8S7U1qowiBE2nA&expires=1609483961&ip=190.108.87.165
 #EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" logo="https://www.televisiongratishd.com/img/azcinema.png",AZ CINEMA
-https://live.televisiongratishd.com/tvplus2021/54_.m3u8?token=fxyDWlYWUqCSpfoa8lr9qw&expires=1609484001&ip=190.108.87.165
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" logo="https://www.televisiongratishd.com/img/aztecauno.png",AZTECA UNO
-https://live.televisiongratishd.com/tvplus2021/52_.m3u8?token=s5w0PNi1vxOYSaWWGzq4ag&expires=1609484051&ip=190.108.87.165
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96648603&_cdn_timestamp=1635514986&_cdn_token=e55c94bca4055fd394ae6eca5fdb125cba13bc9b
 
-
-#EXTINF:-1,Rick y Morty S01 E01
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020971.mkv
-#EXTINF:-1,Rick y Morty S01 E02
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020972.mkv
-#EXTINF:-1,Rick y Morty S01 E03
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020973.mkv
-#EXTINF:-1,Rick y Morty S01 E04
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020974.mkv
-#EXTINF:-1,Rick y Morty S01 E05
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020975.mkv
-#EXTINF:-1,Rick y Morty S01 E06
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020976.mkv
-#EXTINF:-1,Rick y Morty S01 E07
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020977.mkv
-#EXTINF:-1,Rick y Morty S01 E08
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020978.mkv
-#EXTINF:-1,Rick y Morty S01 E09
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020979.mkv
-#EXTINF:-1,Rick y Morty S01 E10
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020980.mkv
-#EXTINF:-1,Rick y Morty S01 E11
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020981.mkv
-#EXTINF:-1,Rick y Morty S02 E01
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020982.mkv
-#EXTINF:-1,Rick y Morty S02 E02
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020983.mkv
-#EXTINF:-1,Rick y Morty S02 E03
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020984.mkv
-#EXTINF:-1,Rick y Morty S02 E04
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020985.mkv
-#EXTINF:-1,Rick y Morty S02 E05
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020986.mkv
-#EXTINF:-1,Rick y Morty S02 E06
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020987.mkv
-#EXTINF:-1,Rick y Morty S02 E07
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020988.mkv
-#EXTINF:-1,Rick y Morty S02 E08
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020989.mkv
-#EXTINF:-1,Rick y Morty S02 E09
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020990.mkv
-#EXTINF:-1,Rick y Morty S02 E10
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020991.mkv
-#EXTINF:-1,Rick y Morty S03 E01
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020992.mkv
-#EXTINF:-1,Rick y Morty S03 E02
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020993.mkv
-#EXTINF:-1,Rick y Morty S03 E03
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020994.mkv
-#EXTINF:-1,Rick y Morty S03 E04
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020995.mkv
-#EXTINF:-1,Rick y Morty S03 E05
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020996.mkv
-#EXTINF:-1,Rick y Morty S03 E06
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020997.mkv
-#EXTINF:-1,Rick y Morty S03 E07
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020998.mkv
-#EXTINF:-1,Rick y Morty S03 E08
-http://tv.nousiptv.com:8080/series/Lucy/123456/1020999.mkv
-#EXTINF:-1,Rick y Morty S03 E09
-http://tv.nousiptv.com:8080/series/Lucy/123456/1021000.mkv
-#EXTINF:-1,Rick y Morty S03 E10
-http://tv.nousiptv.com:8080/series/Lucy/123456/1021001.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA MUNDO" logo="https://www.televisiongratishd.com/img/aztecauno.png",AZTECA MUNDO
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_hls_media=0&_cdn_meta=userID%3D1991926264%2CdeviceID%3D215450476&_cdn_session=96648827&_cdn_timestamp=1635515014&_cdn_token=8a9ecd6242f97f135eaa3dce91ce4a618572ada3
 
 
 
